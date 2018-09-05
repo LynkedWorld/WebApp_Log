@@ -1,0 +1,69 @@
+* commit 8d4560fa2527bf8ea206d677cbcd2752373a1204
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Tue Sep 4 22:07:55 2018 +0530
+| 
+|     Center not align image on control
+| 
+* commit b029fcaeeb993985f45490585005dd42994feca3
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Tue Sep 4 21:35:23 2018 +0530
+| 
+|     Paragraph save data error resolve
+| 
+* commit b6dbc73de619ee2a41a4f10144f684e2737b79b0
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Tue Sep 4 20:53:50 2018 +0530
+| 
+|     Section apend between two section & First section not display on add resolved
+|   
+*   commit 4274d1dc1306726baab987f7498855a21fc1409f
+|\  Merge: 8c0142b7 a690a557
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 4 17:21:28 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 8c0142b7b2576fd55da4b535445b03a6b7117c08
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 4 17:21:11 2018 +0530
+| | 
+| |     Radio button, Date, Number, Gender, Drop Down display in grid
+| |   
+| *   commit a690a5570ca5903e497805194ade0a6d787c9110
+| |\  Merge: 509f3ecc 7f1f53b3
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Sep 4 16:40:12 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 509f3ecc9fcfb26a1c6496a541dbe5ea06389225
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Sep 4 16:29:16 2018 +0530
+| | 
+| |     Make account creation LBD allow configuration
+| | 
+* | commit 7f1f53b31e7ca0edc91ffb01f99814fceea8e9c0
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 4 16:22:43 2018 +0530
+| | 
+| |     checkbox group selection in dyanamic form
+| |   
+* |   commit 59d33aaf26537c3f1e40c3d30832d70aa7aa99ca
+|\ \  Merge: fedae96e 3c66f1de
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Tue Sep 4 14:59:37 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit fedae96e587f7bf163ed0d2cf6b80ee99aaa4bcf
+ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Tue Sep 4 14:59:14 2018 +0530
+|   
+|       Radio button selection in dyanamic form
+| 
+* commit 3c66f1de09f7e29f16ee7c786278df2f552157b3
+  Merge: 074f06e2 82ae2c07
+  Author: Anil Arusys <anil.boricha@arusys.com>
+  Date:   Tue Sep 4 11:49:28 2018 +0530
+  
+      Merge conflict resolve
