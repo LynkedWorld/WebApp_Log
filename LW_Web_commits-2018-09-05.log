@@ -1,0 +1,86 @@
+* commit adedfc10a8959d5138427d26228a61f5ce9c90ad
+| Author: jaydev943 <jay.arusys@gmail.com>
+| Date:   Wed Sep 5 21:55:45 2018 +0530
+| 
+|     Added JS file for set fixed name in Formbuilder
+| 
+* commit 73dc8c120284b37b55da67e73894761075d05d09
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Wed Sep 5 21:36:41 2018 +0530
+| 
+|     change formbuilder version
+|   
+*   commit b7f8cb928a5080b5a073e0f2a00a89763cc59d11
+|\  Merge: 3fe5d9f5 5b9f0e01
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Sep 5 19:46:04 2018 +0530
+| | 
+| |     Remove console log and add comments
+| | 
+* | commit 3fe5d9f5437f6f2db08493bf8c1a0df49f11f823
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Sep 5 19:44:03 2018 +0530
+| | 
+| |     Remove console log and add comments
+| | 
+| * commit 5b9f0e010d9bc11f39960c69ccdd5416de2cd7b5
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Wed Sep 5 18:03:57 2018 +0530
+| | 
+| |     Remove Console log from Script
+| |   
+| *   commit 2cd96c7c5ba2268cfb4cf29e87496d6e6c22a331
+| |\  Merge: 6c858d58 b91033f0
+| | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | Date:   Wed Sep 5 17:54:40 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 6c858d58c81b481f7796a083d981c69e0553b1c3
+|/ /  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Wed Sep 5 17:54:00 2018 +0530
+| |   
+| |       Fixed validation issue on data request
+| | 
+| * commit b91033f04b9f8989449c4acc6fb3fdea23aee69d
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 5 17:45:53 2018 +0530
+| | 
+| |     git ignore add form file folder
+| | 
+| * commit 4783f999662c84b60b3a3bd3eb05836157b654dc
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 5 17:35:10 2018 +0530
+| | 
+| |     git ignore add form file folder
+| | 
+| * commit 075210aa03ad6668d39e9e2a99d50a9401a6f256
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 5 17:28:04 2018 +0530
+| | 
+| |     git ignore add form file folder
+| |   
+| *   commit 79dae0c78d9097586bb8ad873080954c696e495a
+| |\  Merge: 6b0d296e 68e38c67
+| |/  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+|/|   Date:   Wed Sep 5 17:10:55 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 6b0d296efa5ad0acb57c3d6c9b6e750a76f89fd3
+|   Author: Yatin Dhingani <vishal.gohel@arusys.com>
+|   Date:   Wed Sep 5 17:10:13 2018 +0530
+|   
+|       File upload element for dynamic form
+| 
+* commit 68e38c67a6157cf6d62c6eed26b8c60405d4f557
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Wed Sep 5 14:17:23 2018 +0530
+| 
+|     Save button default selected and in edit check it is checked or not. Display checked button in user form
+| 
+* commit 958dd10f8ea4b0deb64bbfcb78e2d98fae792eb6
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Wed Sep 5 13:11:24 2018 +0530
+  
+      Change button type sequence and remove reset type
