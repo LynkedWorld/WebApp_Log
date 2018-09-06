@@ -1,0 +1,167 @@
+* commit 4b8acdfa167c1ce31f6d895cd1c45eedcaaa7540
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Thu Sep 6 23:47:14 2018 +0530
+| 
+|     point counter profile
+|   
+*   commit ae822d6184384d5df284e0044803d57f6f7a4d72
+|\  Merge: 398eeb10 06e4405d
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Thu Sep 6 22:12:34 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 398eeb1094c2ebc401346b2a8df7d2e91097ea1a
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Thu Sep 6 22:12:06 2018 +0530
+| | 
+| |     point counter profile
+| |   
+| *   commit 06e4405dec0bf54d7e327017fc697d772be19dfe
+| |\  Merge: 8aa76207 a30f150d
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 6 21:09:07 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 8aa762076071232785783fb1e8195a3a43b8fcbf
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 6 21:08:20 2018 +0530
+| | | 
+| | |     Share image on social media description issue
+| | | 
+| * | commit b7258e864e24c7da037a934e65a9c22888e3f462
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 6 21:07:42 2018 +0530
+| | | 
+| | |     Card CSS for long text issue resolved
+| | |   
+| | *   commit a30f150dede19b26114badb03b2e45eca7c3ccd6
+| | |\  Merge: 1c072c1c ce0567f4
+| |_|/  Author: jaydev943 <jay.arusys@gmail.com>
+|/| |   Date:   Thu Sep 6 21:06:41 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+* | |   commit ce0567f477183d5b17f456731892a6ffa06964fd
+|\ \ \  Merge: 1f8d6618 d995eb10
+| | | | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | | | Date:   Thu Sep 6 21:04:37 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | | * commit 1c072c1cde18b4eb447b3660d6bd500d32ac08ac
+| | |/  Author: jaydev943 <jay.arusys@gmail.com>
+| |/|   Date:   Thu Sep 6 21:04:28 2018 +0530
+| | |   
+| | |       Fixed Horizontal layout related image issue
+| | | 
+* | | commit 1f8d661800a9105d65fbc522412961ace6bec589
+| | | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | | Date:   Thu Sep 6 21:03:50 2018 +0530
+| | | 
+| | |     point counter profile
+| | |   
+| * |   commit d995eb10c371978e0ea57ff5a6992791c23ae0a4
+| |\ \  Merge: abaeb897 1cd31e7b
+| | | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | | Date:   Thu Sep 6 16:23:33 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit abaeb897290c102413ab13cbfac33107c1e59afe
+| | | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | | Date:   Thu Sep 6 16:23:06 2018 +0530
+| | | | 
+| | | |     Fixed trim issue on dynamic form PDF
+| | | |   
+| | | *   commit b0063fdc5f15985cc1f4a0a617eb086b58a47b44
+| | | |\  Merge: 0b19065a 1cd31e7b
+| | | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |/|   Date:   Thu Sep 6 16:16:33 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | | * commit 0b19065a82e278e3e143ba88e7f08db9686b13c6
+| | | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | | Date:   Thu Sep 6 16:16:11 2018 +0530
+| | | | 
+| | | |     Select user error handling updates
+| | | |   
+| | * |   commit 1cd31e7bac87f9c5b3b2bbd0764625ca78a59d24
+| | |\ \  Merge: d18ce230 b4f60825
+| | |/ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |/| |   Date:   Thu Sep 6 16:14:40 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | * | commit d18ce2301469df2470d8d860e0eeb4d10c45afd7
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Thu Sep 6 16:14:26 2018 +0530
+| | | | 
+| | | |     School student list pagination issue
+| | | |   
+| | | *   commit 57337116d0a8afa4e4dfe5a0ab080bba381dd007
+| | | |\  Merge: 0f88b9d5 b4f60825
+| | |_|/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Thu Sep 6 14:47:25 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | |   
+| * | |   commit b4f608252ca0cf89104e0025ce50f73c9a93fa9c
+| |\ \ \  Merge: 49940a15 941c6dac
+| |/ / /  Author: jaydev943 <jay.arusys@gmail.com>
+|/| | |   Date:   Thu Sep 6 14:44:21 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | |   
+| | | *   commit 0f88b9d5fcd8593070824c688a07c8522e819cb5
+| | | |\  Merge: 99a26313 941c6dac
+| |_|_|/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/| | |   Date:   Thu Sep 6 14:43:57 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit 49940a154755f8ff93a7d67cfb3850226051ddab
+| |/ /  Author: jaydev943 <jay.arusys@gmail.com>
+| | |   Date:   Thu Sep 6 14:43:39 2018 +0530
+| | |   
+| | |       Fixed checkbox value issue on PDF file
+| | |   
+| | *   commit 99a263138a995bddc84404768ba855555aa527f0
+| | |\  Merge: e8654300 8d918b92
+| |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |   Date:   Thu Sep 6 14:35:11 2018 +0530
+| | |   
+| | |       Merge branch 'formdata' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 941c6dac332453d1b6d192ab9e986be0500b87aa
+|/ /  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| |   Date:   Thu Sep 6 13:30:10 2018 +0530
+| |   
+| |       company detail get by slug and user detail get by slug
+| | 
+* | commit e8654300c348ea4980e0397a1a1ee039b5f3c2e5
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Thu Sep 6 11:28:28 2018 +0530
+| | 
+| |     Change js file for dynamic form
+| | 
+| * commit 8d918b92e17221930bba6b3171e38ba50806f437
+|   Author: Vishal Shah <vishalshah.enthuons@gmail.com>
+|   Date:   Thu Sep 6 11:07:06 2018 +0530
+|   
+|       Site Delete bug Fixes
+| 
+* commit c9ab849617629c75e68c2e6295bb1241472b48f0
+| Merge: 4762a5b2 adedfc10
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Thu Sep 6 00:41:28 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit 4762a5b26c6ccb1a35414b50b923a41d3b3ee9a5
+  Author: Anil Arusys <anil.boricha@arusys.com>
+  Date:   Thu Sep 6 00:40:59 2018 +0530
+  
+      File upload element save uploaded data
