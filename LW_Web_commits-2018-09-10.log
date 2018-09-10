@@ -1,0 +1,173 @@
+*   commit 8d3eb49759f3d3aaa2a1991ceac6aafea5206acf
+|\  Merge: 0360a5b2 e687f419
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Sep 10 22:14:16 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 0360a5b27174da9684a215d4c5be8d51db2373e7
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Sep 10 22:01:57 2018 +0530
+| | 
+| |     Other user profile speedup query changed
+| |   
+| *   commit e687f4199c8df47d7053736d42e568df31e16638
+| |\  Merge: 5cdb7559 9fc5f7f1
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Mon Sep 10 20:59:22 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 5cdb755995637472b7fab3f0c18c6ba9afc77928
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Mon Sep 10 20:58:53 2018 +0530
+| | | 
+| | |     In User List Grid Display Lable name instead of value in Radio / Select / Geneder
+| | | 
+| | * commit 9fc5f7f1562364643f248285a0e222e102fa17a4
+| | | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | | Date:   Mon Sep 10 20:35:56 2018 +0530
+| | | 
+| | |     form dynamic get file data and image data
+| | |   
+* | |   commit ea4fd57377eadc2383b33ccc008d9ae6a148d0b8
+|\ \ \  Merge: 31d5f143 fe01c6ee
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Mon Sep 10 19:53:49 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit fe01c6eee359d9c50dea9e3e9aac15940fc7b3b8
+| | | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | | Date:   Mon Sep 10 19:48:13 2018 +0530
+| | | 
+| | |     form dynamic get file data and image data
+| | | 
+| * | commit 0f0e28d251aa180f0d2159ce76366264dff46279
+| | | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | | Date:   Mon Sep 10 19:27:33 2018 +0530
+| | | 
+| | |     socket function for profiel percentage counter upload in movile device
+| | | 
+* | | commit 31d5f14399a20c0d03c98e64bac06cba9752b07d
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Mon Sep 10 17:37:39 2018 +0530
+| | | 
+| | |     Compare data document codition check for empty resolved
+| | | 
+* | | commit 2b7bd90d1dadf7d4febe897d55e0bba4a34d2a89
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Mon Sep 10 17:08:27 2018 +0530
+| | | 
+| | |     Comment reply count not updated issue fixed
+| | | 
+| * | commit c6b591bc8b1bc5acadb2a778785923549026ed13
+|/ /  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| |   Date:   Mon Sep 10 16:53:18 2018 +0530
+| |   
+| |       socket function for profiel percentage counter upload in movile device
+| | 
+* | commit 8c1ee27846ac8af4dc9737eda6df8b63be22f679
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Mon Sep 10 16:21:52 2018 +0530
+| | 
+| |     socket function for profiel percentage counter upload in movile device
+| | 
+* | commit 72f19128075071f1c941fe77f9c6614154de4c23
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Mon Sep 10 16:15:37 2018 +0530
+| | 
+| |     socket function for profiel percentage counter upload in movile device
+| | 
+* | commit e5c8507e71f9900cfc0bff6731abc79fe41e2808
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Mon Sep 10 15:59:04 2018 +0530
+| | 
+| |     socket function for profiel percentage counter upload in movile device
+| |   
+* |   commit df5c93f260074b224ee9835a7b1b2067d399c628
+|\ \  Merge: 664b6d38 25c7d3bf
+| |/  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| |   Date:   Mon Sep 10 15:49:24 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 664b6d38fbe9bc478d4535a86742667dbf79f106
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Mon Sep 10 15:49:09 2018 +0530
+| | 
+| |     socket function for profiel percentage counter upload in movile device
+| | 
+| * commit 25c7d3bf2b2efd5746d592af6c5369e412dcf2c5
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Sep 10 13:09:14 2018 +0530
+| | 
+| |     Verification and display popup changes
+| | 
+| * commit 7d90334d19f7c5356c271ccc8d7a9143d09c11f9
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Sep 10 11:16:46 2018 +0530
+| | 
+| |     Display save data and restore save data issues resolved
+| | 
+| * commit ec301d5a24ab71df10f7276a1ad210a9cb57c681
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Sat Sep 8 23:04:35 2018 +0530
+| | 
+| |     Checkbox and save data issues resolved
+| | 
+| * commit c1f459196ae527b2424b5d3b34836d1f2e7f2837
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Sat Sep 8 23:03:09 2018 +0530
+| | 
+| |     Checkbox and save data issues resolved
+| | 
+| * commit d287dc07f6a36d937546b539b25bce713b41d50d
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Sat Sep 8 22:14:24 2018 +0530
+| | 
+| |     Checkbox and save data issues resolved
+| | 
+| * commit f95e3fe60976e146f2b1c78d89d96a6b55113703
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Sat Sep 8 20:57:49 2018 +0530
+| | 
+| |     Checkbox and save data issues resolved
+| | 
+| * commit 33f2c1f135eb365e2a53002b1244a16f08a7b627
+|/  Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Sat Sep 8 13:17:09 2018 +0530
+|   
+|       Download and display file name issue resolved
+|   
+*   commit cb40d0509135ce785bc5399be61badabf777c429
+|\  Merge: e48e4b02 568786ae
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Sat Sep 8 13:03:33 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 568786ae23bb06b66796966319411b342ad84c2b
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Sat Sep 8 13:02:01 2018 +0530
+| | 
+| |     PDF download issues resolved
+| |   
+* |   commit e48e4b021f54bba4c446a8886871f1340f6b3831
+|\ \  Merge: 480b97a8 c64643bd
+| |/  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| |   Date:   Sat Sep 8 12:27:37 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 480b97a8f95b61ec07876576cf3bd828ef51c68c
+ /  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+|   Date:   Sat Sep 8 12:27:20 2018 +0530
+|   
+|       save data error resolve
+| 
+* commit c64643bd5d85acc5c71bd322ecd98990bd6a35de
+  Author: Anil Arusys <anil.boricha@arusys.com>
+  Date:   Sat Sep 8 12:00:49 2018 +0530
+  
+      Without login popup design changes
