@@ -1,0 +1,69 @@
+*   commit 09f71fe0bf8901cacc0396e7af2c332cd1f0385e
+|\  Merge: 6d341ba2 d9c9e1fb
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Sep 11 22:06:58 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 6d341ba201542a6ddccf8b9c142196d3ce464f4d
+ /  Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Tue Sep 11 22:06:31 2018 +0530
+|   
+|       Change company search and selection for verification
+|   
+*   commit d9c9e1fb8de266e19626bd14f84d1254108518a6
+|\  Merge: 2600e0a1 7f8dae72
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Tue Sep 11 20:10:04 2018 +0530
+| | 
+| |     userdataservice file conflicted changed
+| | 
+| * commit 7f8dae72e7dc65ee932718f1aec41495a1f11759
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Tue Sep 11 20:03:12 2018 +0530
+| | 
+| |     tinymce editer save time data get and update in textarea
+| | 
+| * commit e8e07914b4cee3ceb7e20d0c5f4f4821f7b966a5
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Tue Sep 11 20:02:21 2018 +0530
+| | 
+| |     tinymce editer save time data get and update in textarea
+| |   
+* |   commit 2600e0a1cf9e8b7f030c5d84efb14b07ee6c75f0
+|\ \  Merge: e2f8aa33 030c27b6
+| |/  Author: Nishant <nishant.arusys@gmail.com>
+| |   Date:   Tue Sep 11 20:02:06 2018 +0530
+| |   
+| |       userdataservice file conflicted
+| | 
+* | commit e2f8aa331889c06710ad8dfd00c1faba5b66b4be
+ /  Author: Nishant <nishant.arusys@gmail.com>
+|   Date:   Tue Sep 11 19:57:07 2018 +0530
+|   
+|       designation issue reslved for mix like name
+| 
+* commit 030c27b6963a69059e8d49cca8b23f1068c726b0
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 19:56:25 2018 +0530
+| 
+|     tinymce editer save time data get and update in textarea
+| 
+* commit 24e81de617595c15bd38562c466bb106526186f8
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 17:48:01 2018 +0530
+| 
+|     form dynamic pass create id parameter in get form data and file upload option add
+| 
+* commit 7fbf89b830417b3c4aa3cbfe947317f01ea0bff8
+| Merge: 341a915e e687f419
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 14:35:28 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit 341a915e62a198f4379145a40cc42afdbe558243
+  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+  Date:   Tue Sep 11 14:35:07 2018 +0530
+  
+      form dynamic pass create id parameter in get form data and file upload option add
