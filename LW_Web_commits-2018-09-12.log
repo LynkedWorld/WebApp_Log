@@ -1,0 +1,75 @@
+*   commit e5dc55ff4221c5e4bc435a97146d40c587170de2
+|\  Merge: 71d3c87a b0e13815
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Wed Sep 12 20:57:12 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 71d3c87a42e6e5302065d4785dc1561a1808a703
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Wed Sep 12 20:56:38 2018 +0530
+| | 
+| |     Save data form issue resolved
+| |   
+| *   commit b0e1381586733c84e58015ee816003a1f293f5d5
+| |\  Merge: 06b73862 a4101307
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/|   Date:   Wed Sep 12 19:39:28 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 06b73862591ee17d5492b2e84cc47405c20edb39
+|   Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Wed Sep 12 19:38:59 2018 +0530
+|   
+|       Set checkbox / Select / Radio button lable instead of value in generate dynamic pdf
+|   
+*   commit a41013073046c43b79c2b7417451445c9815977d
+|\  Merge: 5b9f093a bfee3683
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Wed Sep 12 18:56:54 2018 +0530
+| | 
+| |     Resolve merge conflict
+| | 
+* | commit 5b9f093a24f1bd02c2b5317150ac3826f20dfbd9
+ /  Author: jaydev943 <jay.arusys@gmail.com>
+|   Date:   Wed Sep 12 18:54:29 2018 +0530
+|   
+|       Working on Custom ID Cards
+| 
+* commit bfee368399aac5364abfd36269880ecca9a32990
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 17:18:14 2018 +0530
+| 
+|     base 64 image convart issue in Ios API
+| 
+* commit e2a379b8fbb24f490205ec508a1250d6d4145d07
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 16:37:39 2018 +0530
+| 
+|     base 64 image convart issue in Ios API
+| 
+* commit a6fb043e821aefd9486d60629bda99b034ce4ed8
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 14:44:28 2018 +0530
+| 
+|     replace lashthen and gretorthen sign from lable of paragraph
+| 
+* commit a4f0b93891767e56992bca744429895782fdfd3b
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 14:42:31 2018 +0530
+| 
+|     error when you not select any button in form dynamic
+| 
+* commit 2170dd82f9e6f75cfea3aed5b532c32c3760bc28
+| Merge: 33e531ff 09f71fe0
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 12:54:48 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit 33e531ff1b5ad9af30d8e71c8ad5e4c22e0e369d
+  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+  Date:   Wed Sep 12 12:54:31 2018 +0530
+  
+      error when you not select any button in form dynamic
