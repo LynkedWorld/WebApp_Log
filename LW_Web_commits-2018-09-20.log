@@ -1,0 +1,147 @@
+*   commit 39ff5e39fb25f7ac5e57a6b1886c48aee75782ce
+|\  Merge: 270eab07 b054c88d
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Sep 20 22:15:11 2018 +0530
+| | 
+| |     Merge conflict resolve
+| |   
+* |   commit 270eab07c94f4ba6eb8a1e551aea6dddb75e11ea
+|\ \  Merge: 49824bfb 5a501559
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 20 20:33:37 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 49824bfbe78e580032107572f4d439405c0ce377
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 20 20:32:43 2018 +0530
+| | | 
+| | |     Download dynamic form QR without login issue fixed'
+| | |   
+| * |   commit 5a5015597c641426b08a049eefb7c000ddb8793b
+| |\ \  Merge: 46d58778 711177e6
+| | | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | | Date:   Thu Sep 20 20:25:22 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit 46d58778097b0a0e0e7ce91e23f2940f7f1c85de
+| | | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | | Date:   Thu Sep 20 20:24:56 2018 +0530
+| | | | 
+| | | |     Added date-format on custom card and certificate
+| | | | 
+| | * | commit 711177e6d9184d74e057cc144a9713e0dd6b5dca
+| |/ /  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+|/| |   Date:   Thu Sep 20 18:59:50 2018 +0530
+| | |   
+| | |       remove doc link in dynamic form
+| | | 
+| | * commit b054c88dae48ce4597f235b6280219d4b2e1d3b3
+| |   Author: Atul Goswami <atulgoswami21@gmal.com>
+| |   Date:   Thu Sep 20 18:53:52 2018 +0530
+| |   
+| |       UserSetting Page and Page Link saved
+| |   
+* |   commit 246860d4737c4791ebe487ca1dd27156795bb2cc
+|\ \  Merge: 0307a012 4d49ac3f
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 20 17:23:11 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 0307a012d4de621dbe5d1b558cdea748cbeabca3
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 20 17:22:51 2018 +0530
+| | | 
+| | |     Form controller api for grid view updated
+| | | 
+| * | commit 4d49ac3f12b3962d9cd973576fdec1c5b023eed5
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Thu Sep 20 17:01:19 2018 +0530
+| | | 
+| | |     Non login user document require(s) must be blank
+| | |   
+| * |   commit f7ffdbf9e01be80b751bdda37a474392cda7aa8d
+| |\ \  Merge: c19d85ca a3525389
+| | |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | |   Date:   Thu Sep 20 16:31:07 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit c19d85ca6eefb223e00afe79b9be088bf736ee41
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Thu Sep 20 16:30:50 2018 +0530
+| | | 
+| | |     Resolve : Any one can view any one dynamic form, User List, export PDF and excel data.
+| | | 
+| | * commit a3525389d0d74471b688aff1d056cb50e1c761a4
+| |/  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Thu Sep 20 16:20:59 2018 +0530
+| |   
+| |       Fixed Drag drop element on field in custom ID Card
+| |     
+| | *   commit 84d7ea8fbc929dd6621e30b6f44c7caf5304c800
+| | |\  Merge: aa1ece97 ca8c4240
+| | |/  Author: Nishant <nishant.arusys@gmail.com>
+| |/|   Date:   Thu Sep 20 15:34:04 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| | * commit aa1ece97d044ad7dafc8581c7d4a84cdaec6a37e
+| | | Author: Nishant <nishant.arusys@gmail.com>
+| | | Date:   Thu Sep 20 15:33:37 2018 +0530
+| | | 
+| | |     about us page team section mapping with tokensale team
+| | |   
+| * |   commit ca8c424080fbb94c4cc48dbfdac9bf5cf885c26d
+| |\ \  Merge: 52dce433 36b4d52c
+| | |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | |   Date:   Thu Sep 20 14:46:30 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 52dce4339d2b24fa8fbaa5f70e129bd8f57a9514
+|  /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Thu Sep 20 14:46:10 2018 +0530
+| |   
+| |       Add Required Document(s) data in PDF and export Data & Datepicker without login
+| |   
+| *   commit 36b4d52cc44ee514f3aba97c839ea192a2be3222
+| |\  Merge: 47656167 f2de1f72
+| | | Author: Nishant <nishant.arusys@gmail.com>
+| | | Date:   Thu Sep 20 14:33:55 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 47656167b70215e00b86b55af812790f76ad47f1
+|  /  Author: Nishant <nishant.arusys@gmail.com>
+| |   Date:   Thu Sep 20 14:32:35 2018 +0530
+| |   
+| |       refere a friend text changes as per our referal bonus
+| |   
+* |   commit 72ef3f3f3d5fcf7e3225993d6c134f63a05fd04b
+|\ \  Merge: 487481e2 f2de1f72
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Thu Sep 20 12:33:17 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit f2de1f72f8bc3a9ec68c79273b2b7643c0b79235
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Thu Sep 20 12:20:36 2018 +0530
+| | 
+| |     company name issue resolver
+| | 
+* | commit 487481e2d81bd4e45bc43d4f544eb9a63bc90154
+|/  Merge: bd308467 da34f6d2
+|   Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Thu Sep 20 11:50:24 2018 +0530
+|   
+|       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit da34f6d2840f203628c25880752a0ea66d874f4b
+  Author: jaydev943 <jay.arusys@gmail.com>
+  Date:   Thu Sep 20 11:34:02 2018 +0530
+  
+      replace </br> to <br> as android devloper
