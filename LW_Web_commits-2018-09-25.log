@@ -1,0 +1,75 @@
+*   commit cef8e76a51342063f440ebd4f26b418af8f2492a
+|\  Merge: bf2e1fc6 e8a455be
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 25 20:59:55 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit bf2e1fc68b982e976efdbbcff231e71c976794b8
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 25 20:59:39 2018 +0530
+| | 
+| |     Autocomplete display change value to label in PDF / EXCEL / USER DETAILS / EDIT
+| | 
+| * commit e8a455be3a6b6fb9375e32b9ab92210dd6824c28
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Sep 25 20:42:44 2018 +0530
+| | 
+| |     Blog/Post like and comment like issue resolved
+| |   
+| *   commit 9536bf7170f5e77d24368b60d75fc00b0a1a4aca
+| |\  Merge: 9aa4b0a4 6bdcdcb4
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Sep 25 19:46:21 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 6bdcdcb4c1b1fe4358f6f091c9764bea4250d448
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 25 19:05:09 2018 +0530
+| | 
+| |     Autocomplete change value as text / Label while edit
+| |   
+| *   commit 9aa4b0a41e917dc7252cf8f1bfb543cf4bda7a94
+| |\  Merge: 3e05099b a4741c6c
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Sep 25 18:52:08 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 3e05099be2a738a124e49eeb84ddd6bea80216b8
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Sep 25 18:45:10 2018 +0530
+| | 
+| |     Blog search query alive and search include
+| | 
+| * commit 87b5d65fbada5872a23c2019c83fea83b951a906
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Sep 25 18:40:38 2018 +0530
+| | 
+| |     Blog comments list, like, comments, comments like issue resolved
+| | 
+| * commit 2ed3a1b20180b6101a23c65e0d3b528b5f8f1433
+|   Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Tue Sep 25 18:38:54 2018 +0530
+|   
+|       Blog search query alive and search include
+|   
+*   commit a4741c6ce0be357eca319a972fd085bc411deb06
+|\  Merge: 9f973e0e 1749b469
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Sep 25 17:05:34 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 9f973e0e0f102529992c2401ac5639b77b5e7173
+ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Tue Sep 25 17:05:09 2018 +0530
+|   
+|       no personal information added then display labale only
+| 
+* commit 1749b4690195276c46dedb82303cb27d7b843da1
+  Author: jaydev943 <jay.arusys@gmail.com>
+  Date:   Tue Sep 25 16:11:42 2018 +0530
+  
+      Fixed Custom Certificate related changes and other trello task
