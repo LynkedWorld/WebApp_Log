@@ -1,0 +1,81 @@
+* commit 089aa89207d3a7dcb28b4d4ff596f5f98d728e44
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Wed Sep 26 21:29:20 2018 +0530
+| 
+|     Cover img settings and file conflict issue resolved
+|   
+*   commit 9f905237d2e55f7512de0e2038ca06e267575b18
+|\  Merge: 7038fb2d 97810536
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Wed Sep 26 21:20:53 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 978105361bbeb9f6dc8c90066bdd0ee2524a180c
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 26 21:20:03 2018 +0530
+| | 
+| |     issue id type add in issue id list API
+| |   
+* |   commit 7038fb2d7444ef5214c8acd9c214ff8f48209a0d
+|\ \  Merge: fc4e3c65 8eb70eac
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Wed Sep 26 21:16:23 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 8eb70eace2c4dc5240497fd27a234707a1f44be2
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 26 21:13:13 2018 +0530
+| | 
+| |     issue id type add in issue id list API
+| |   
+* |   commit fc4e3c65f0e7fe22e22d7f84139f28ea372c5368
+|\ \  Merge: 72232879 e89786d1
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Wed Sep 26 20:20:34 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 72232879b7d15d053fa89d4ebcbdf2a542372353
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Wed Sep 26 20:20:19 2018 +0530
+| | 
+| |     IMG for user and company upload settings changed
+| | 
+| * commit e89786d16d2b57d370cd25737217b23829297622
+|/  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+|   Date:   Wed Sep 26 19:33:57 2018 +0530
+|   
+|       issue id type add in issue id list API
+|   
+*   commit 5e34a6b453db825fbbc86ed82ed96eb6fd980f14
+|\  Merge: 5ef56942 7c70c76b
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 26 18:48:27 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 5ef56942d412472f04b3bc4b2e533c9569e5e4e2
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Wed Sep 26 18:48:10 2018 +0530
+| | 
+| |     refral bonnas applay only in mobile varification
+| | 
+| * commit 7c70c76b1691b859f8a608b0153a472d154694cc
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Wed Sep 26 18:09:20 2018 +0530
+| | 
+| |     Dynamic form design modification for issue id card and renderd id card pages
+| | 
+| * commit b7a8058307ba504bd7c9eb5241c1a6e72207b346
+|/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Wed Sep 26 13:38:59 2018 +0530
+|   
+|       Resolve : Export excel display date field invalid date
+| 
+* commit b413813193528fc22351f24e902529197cf04d03
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Wed Sep 26 11:57:30 2018 +0530
+  
+      Resolve : Checkbox other value not display in PDF / Excel
