@@ -1,0 +1,133 @@
+* commit cea6faaf9348b8c6b33704e4dde7c09a00546cb7
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Thu Sep 27 20:56:24 2018 +0530
+| 
+|     Rotate and edit issue resolved
+|   
+*   commit d61ab44d2e4e335f69d6f43c5e82907b8b20f28c
+|\  Merge: 21fa2de4 fd72c716
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Sep 27 19:38:55 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 21fa2de4e610c291cb4ed8cee3c15cfb14a83e5f
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Sep 27 19:38:39 2018 +0530
+| | 
+| |     Cover pic changes for upload and view
+| | 
+* | commit e0c7880756f4d008e15a90d4a2387db270f06d2d
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Sep 27 19:38:13 2018 +0530
+| | 
+| |     Mobile OTP verification API changes
+| | 
+| * commit fd72c716979eb54963bed805e207de21ffc7b402
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Thu Sep 27 19:36:50 2018 +0530
+| | 
+| |     Remove tag for export excel data
+| |   
+* |   commit dff0a98bcb53733178c88648b08db0fa32ec84fb
+|\ \  Merge: 5dd7802b 323817f8
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Thu Sep 27 18:38:51 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 323817f863abd5508ecfb29d6d52a8de07871b11
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Thu Sep 27 18:36:29 2018 +0530
+| | 
+| |     Display file name in pdf
+| |   
+| *   commit 013f9a423ab53a25e1a37761e726cc40a146a449
+| |\  Merge: e2704be9 6dd7dae3
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Thu Sep 27 18:06:24 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit e2704be985613094a5337fd0a6bae9ddd9eae877
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Thu Sep 27 18:06:03 2018 +0530
+| | | 
+| | |     Export Excel upload file name not exported
+| | |   
+* | |   commit 5dd7802b3f46235fc7017885c321e5521c2cf97a
+|\ \ \  Merge: 42c3aba8 6dd7dae3
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Thu Sep 27 17:30:13 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 42c3aba80482fbda19d279122e15d648eac5045a
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Thu Sep 27 17:27:20 2018 +0530
+| | | 
+| | |     Send verification without doc allow issue resolved
+| | | 
+| * | commit 6dd7dae33657b87ae5725d9b03e65525e4ed473f
+| | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | Date:   Thu Sep 27 16:34:07 2018 +0530
+| | | 
+| | |     Fixed issue regarding length in Get Verify Request
+| | |   
+| * |   commit a7dc8b864b6f82d5dae664388397d4f7ba2618ff
+| |\ \  Merge: 4d956e6b 5a0728fb
+| | |/  Author: jaydev943 <jay.arusys@gmail.com>
+| | |   Date:   Thu Sep 27 15:57:09 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 4d956e6b9890a4fd98d0ab18dd41ac536bcd31a9
+|/ /  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Thu Sep 27 15:56:39 2018 +0530
+| |   
+| |       Fixed screen view and Get Verify request issue
+| |   
+| *   commit 5a0728fbb54097d3156c6d3a52eb5c71d5e072ef
+| |\  Merge: 08fbb3ca 4e390e46
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Thu Sep 27 15:53:23 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 08fbb3ca30cf6369ad093d50bcac2c12658e66ff
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Thu Sep 27 15:53:07 2018 +0530
+| | | 
+| | |     Required Document(s) with DOB and Address Details
+| | |   
+| | *   commit 4e390e4648323a3e7a03f7589dee32fb2470c65c
+| | |\  Merge: 70c50998 2c56512e
+| | |/  Author: Nishant <nishant.arusys@gmail.com>
+| |/|   Date:   Thu Sep 27 15:36:23 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| | * commit 70c5099818d59e7e0347976f178a89eb008de4b0
+| |   Author: Nishant <nishant.arusys@gmail.com>
+| |   Date:   Thu Sep 27 15:35:10 2018 +0530
+| |   
+| |       Dynamic form design modification for issue certificate design and generate id card
+| |   
+| *   commit 2c56512e0335fc2e5a71e55521c0574a7a1f39aa
+| |\  Merge: 9b353b52 6aabf839
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/|   Date:   Thu Sep 27 13:14:01 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 9b353b52fcceb16711b5c47dd30e28fc75232218
+|   Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Thu Sep 27 13:13:25 2018 +0530
+|   
+|       DOB and ADDRESS with details
+| 
+* commit 6aabf839dfb568fa3420aa2855303329306546e0
+  Author: Anil Arusys <anil.boricha@arusys.com>
+  Date:   Thu Sep 27 12:57:09 2018 +0530
+  
+      Request doc QR add and list functionality issues
