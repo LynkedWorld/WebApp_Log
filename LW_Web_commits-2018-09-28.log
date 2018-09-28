@@ -1,0 +1,115 @@
+*   commit 7aa46ce62bb4db9ad14ed1a78744215de6495e7f
+|\  Merge: 4eff1c6c 1c19293a
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Sep 28 20:59:23 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| |   
+* |   commit 4eff1c6cc3b2bb6d193e9a446fb178eaad93d82d
+|\ \  Merge: 114f2e18 d00c5183
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Fri Sep 28 20:58:28 2018 +0530
+| | | 
+| | |     Merge conflict resolve
+| | | 
+| | * commit 1c19293ad0649948b0b3b3dac4b53596431aeedb
+| | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | Date:   Fri Sep 28 20:56:02 2018 +0530
+| | | 
+| | |     Fixed profile summary related issue
+| | |   
+* | |   commit 114f2e1882bae4b9a9098705599ccde65520b647
+|\ \ \  Merge: 65294ec7 7f04edf8
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Fri Sep 28 20:46:36 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 65294ec77285a77c41dea721cc40c6bac9a72326
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Fri Sep 28 20:46:20 2018 +0530
+| | | 
+| | |     Mobile API related chnages on response
+| | | 
+* | | commit 5a0a380fb3eef1de993036a75532ac16f1d6f45a
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Fri Sep 28 20:44:39 2018 +0530
+| | | 
+| | |     Company admin user display chnages
+| | |   
+| * |   commit 7f04edf83ceb3757df0aa670cc2e42371983e56e
+| |\ \  Merge: 9225628b 9afc2c5f
+| | | | Author: Nishant <nishant.arusys@gmail.com>
+| | | | Date:   Fri Sep 28 19:49:54 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit 9225628b34d17cfb94cc3d632a785fc8dcbed955
+|  / /  Author: Nishant <nishant.arusys@gmail.com>
+| | |   Date:   Fri Sep 28 19:49:15 2018 +0530
+| | |   
+| | |       advior guy added in all index pages
+| | | 
+| | * commit d00c518396ca5477c8712621a077934205632808
+| |   Author: Atul Goswami <atulgoswami21@gmal.com>
+| |   Date:   Fri Sep 28 18:38:33 2018 +0530
+| |   
+| |       Create Page Validation
+| |   
+* |   commit 8025af24817d15e2cefc8d1d8bbb37a655aebebb
+|\ \  Merge: a250f4e2 9afc2c5f
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Fri Sep 28 17:57:31 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit a250f4e2b6acdfd446a6960464a5e37808817d85
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Sep 28 17:57:18 2018 +0530
+| | 
+| |     Company admin user display chnages
+| |   
+| *   commit 9afc2c5fab3c60ae2c28cf70b1f4a96aae362a41
+| |\  Merge: af8cefd7 5b681df2
+| | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | Date:   Fri Sep 28 17:51:18 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit af8cefd76fa69596fd1572f343aea5f225f14f97
+|/ /  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Fri Sep 28 17:50:42 2018 +0530
+| |   
+| |       Added type for Issue Certificate and ID Card
+| |   
+| *   commit 5b681df2f97fae1a7aca0582bdb71141124e29b4
+| |\  Merge: 30823b01 8ab51f6d
+| |/  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+|/|   Date:   Fri Sep 28 17:48:14 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 30823b015fcfa84f82030ba1ac3c63feff15aa40
+| | Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| | Date:   Fri Sep 28 17:47:51 2018 +0530
+| | 
+| |     form structure created successfully message display on form save button
+| | 
+* | commit 8ab51f6d76faf5a90820fc57c223eec7a0b2f086
+|/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Fri Sep 28 13:00:58 2018 +0530
+|   
+|       Delete confirmation message alignment is not  correct
+| 
+* commit daaaa74d347cb5fa91bc131cbb90d200e9fc61bb
+| Merge: cf8a2217 cea6faaf
+| Author: Yatin Dhingani <vishal.gohel@arusys.com>
+| Date:   Fri Sep 28 12:35:03 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit cf8a2217d69be994aca1afddf83743c2951904d9
+  Author: Yatin Dhingani <vishal.gohel@arusys.com>
+  Date:   Fri Sep 28 12:34:44 2018 +0530
+  
+      form section button edit and delete button hide
