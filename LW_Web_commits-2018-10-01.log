@@ -1,0 +1,30 @@
+* commit 6112365a377d495ceeedd62c1aeee1101d2dac98
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Mon Oct 1 22:26:05 2018 +0530
+| 
+|     Delete profile pic API created
+| 
+* commit cf317bd09335eab3d76c207ed55ee8b05d0f3f3a
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Mon Oct 1 21:38:03 2018 +0530
+| 
+|     Form and section name can not blank and focus issue when multiple edit issue resolved
+| 
+* commit 3b5163b230b23aff5160936e8878b31a1e06fac1
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Mon Oct 1 16:32:03 2018 +0530
+| 
+|     Page settings save issue resolved
+| 
+* commit 5efeba6ad3ed9697079dede4bf55327f4f879ceb
+| Merge: 7aa46ce6 ffe5d245
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Mon Oct 1 15:40:18 2018 +0530
+| 
+|     Merge conflict resolve
+| 
+* commit ffe5d245f366f42c2ab2c119359f68025d9d1bb6
+  Author: Atul Goswami <atulgoswami21@gmal.com>
+  Date:   Mon Oct 1 14:22:30 2018 +0530
+  
+      Pagelet Name Required, and Home Page Save User Setting
