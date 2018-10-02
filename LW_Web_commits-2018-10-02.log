@@ -1,0 +1,99 @@
+* commit 24edc35964a3306b893cd8a55eaff0946f027832
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 2 19:35:04 2018 +0530
+| 
+|     add Email vary metho for check email is verefy or not
+| 
+* commit 7500d03aba3a9882b100fb02490756b27fd234aa
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 2 19:23:42 2018 +0530
+| 
+|     add Email vary metho for check email is verefy or not
+|   
+*   commit c903cb3bbd0491b0223e51d4c76cc7518bf948b2
+|\  Merge: f6adc91a 9724e12c
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 2 19:20:03 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit f6adc91a237dfcf604577a79c7bbad4d2ea9debe
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 2 19:19:51 2018 +0530
+| | 
+| |     add Email vary metho for check email is verefy or not
+| |   
+| *   commit 9724e12c53960f81f221136bdc742b12d783ef72
+| |\  Merge: 7186ccdc 1c9270e6
+| | | Author: Nishant <nishant.arusys@gmail.com>
+| | | Date:   Tue Oct 2 19:16:52 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 7186ccdc3ddabf0fb64706165fdb37f81502826a
+|  /  Author: Nishant <nishant.arusys@gmail.com>
+| |   Date:   Tue Oct 2 19:15:59 2018 +0530
+| |   
+| |       dynamic form verification spelling mistakes resolved
+| |   
+| *   commit 1c9270e6c584908c39d88b6ccea7f54e8b58b629
+| |\  Merge: fe40c57e e66955f7
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 2 18:27:37 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit fe40c57ec0de27d0d09676aea427d682345ceb6d
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 2 18:27:18 2018 +0530
+| | 
+| |     Feed post list and details add space and enter issue fixed
+| | 
+| * commit 73fe1cb36bc52b0d1ccdc96ab202c0c6717cc35d
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 2 17:54:31 2018 +0530
+| | 
+| |     Feed referral code usecompany display direct on app API changes
+| | 
+| * commit ba5a21dc000a227ee429892431c5db0a0c3ca1c3
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 2 17:53:30 2018 +0530
+| | 
+| |     Connection file replace to old
+| | 
+* | commit e66955f7831322c394f86d4ec73a82211e72ca70
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 2 16:06:09 2018 +0530
+| | 
+| |     QR code for scane ID card and create QR code
+| | 
+* | commit c594243f22c5793e41ee85e5f9bec1840ab7f3cc
+|/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Tue Oct 2 16:03:45 2018 +0530
+|   
+|       QR code for scane ID card and create QR code
+| 
+* commit d519b920be3293d7b67117ae8964de6be84b1304
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 2 12:28:44 2018 +0530
+| 
+|     follow company and connection request send with out device id check but from_referral pass blanc id device id exsit
+| 
+* commit f6afe51b468a6fb0b7c1714dd45be6bae17dce6c
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 2 12:10:38 2018 +0530
+| 
+|     welcome message send condition change
+| 
+* commit 146aa2a49c8f6d5a79f0b3c29fa7d9581a5a6277
+| Merge: 510a45aa 6112365a
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 2 11:27:58 2018 +0530
+| 
+|     delete user profile API
+| 
+* commit 510a45aaf488fb00f4eea06d3723a336ca60f775
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Tue Oct 2 11:26:28 2018 +0530
+  
+      delete user profile API
