@@ -1,0 +1,152 @@
+*   commit 236204a4ad9d4a6c2ff238ed4bc637a1a91d1649
+|\  Merge: 4c129da1 92b5420c
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Wed Oct 3 22:51:16 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 92b5420cf64d9fe15d601681000975876fd5352f
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Wed Oct 3 22:49:50 2018 +0530
+| | 
+| |     Scan id cardlisting and API chanegs
+| |   
+* |   commit 4c129da101cd0e800d0d13e9db88d5b4d523c043
+|\ \  Merge: 535db405 dd20a593
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Wed Oct 3 21:51:46 2018 +0530
+| | | 
+| | |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| | * commit 9da271af047ac7f4f3a8403bc14443778e95e498
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|/|   Date:   Wed Oct 3 21:17:24 2018 +0530
+| |   
+| |       Form extra field hide and set read only in document verifiction control
+| |   
+* |   commit 535db405642a844f99a09ae0e94522de4ef3a7ac
+|\ \  Merge: 20c0922b 6a4f1151
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Wed Oct 3 20:18:55 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 20c0922bfc6e4d1b445e6540f6bfde8b5b6d6266
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Wed Oct 3 20:18:40 2018 +0530
+| | | 
+| | |     Form API update with doctype
+| | | 
+| | * commit dd20a5939802b458ec123ab163040f3cd40807a5
+| | | Author: Atul Goswami <atulgoswami21@gmal.com>
+| | | Date:   Wed Oct 3 18:57:31 2018 +0530
+| | | 
+| | |     View Page Grid Resize Fixed
+| | | 
+| | * commit b9e73b2a1ac43007beffd593a2b34744eb59df06
+| |   Author: Atul Goswami <atulgoswami21@gmal.com>
+| |   Date:   Wed Oct 3 18:22:52 2018 +0530
+| |   
+| |       New Gridster Page
+| |   
+| *   commit 6a4f1151df8081335b99614182d350a6bb172981
+| |\  Merge: f499efde 1d8d7e0b
+| | | Author: Nishant <nishant.arusys@gmail.com>
+| | | Date:   Wed Oct 3 17:55:40 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit f499efdef90443f1f05732f7f8fa55feade2ce84
+| | | Author: Nishant <nishant.arusys@gmail.com>
+| | | Date:   Wed Oct 3 17:55:05 2018 +0530
+| | | 
+| | |     self detected email template text issue resolved
+| | |   
+| | *   commit 1d8d7e0b79f77f48962eb99a677a01b07ed40473
+| | |\  Merge: 99b8c459 0a18862b
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Wed Oct 3 17:41:56 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | * | commit 99b8c459cc0c987cd881627689383eae01ae22fb
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Wed Oct 3 17:41:40 2018 +0530
+| | | | 
+| | | |     Date issue in Mircrosoft Edge.
+| | | |   
+| | | *   commit 0a18862bc40bfc4e09abe459dd2d047e34aa8f10
+| | | |\  Merge: 095f9b7b 9b02bc9b
+| |_|_|/  Author: jaydev943 <jay.arusys@gmail.com>
+|/| | |   Date:   Wed Oct 3 17:29:24 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | | * commit 095f9b7b11c35009c1ccc38067cc4cef1269d993
+| | |/  Author: jaydev943 <jay.arusys@gmail.com>
+| |/|   Date:   Wed Oct 3 17:29:00 2018 +0530
+| | |   
+| | |       Fixed year calculation issue on user profile
+| | |   
+* | |   commit 9b02bc9bc11aff71fb2e69f2fcc1090c87bc59be
+|\ \ \  Merge: dc7554b6 1fbfb9ae
+| |/ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Wed Oct 3 17:25:24 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit dc7554b6387022009ff198471b8eeb8e479e22e0
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Wed Oct 3 17:25:13 2018 +0530
+| | | 
+| | |     Remove data in responce of SaveScaneOnlyIdCardDetail API
+| | |   
+| * |   commit 1fbfb9aeffffbaea13c765873083f2b941741a28
+| |\ \  Merge: d6152400 ef5a9f89
+| | |/  Author: jaydev943 <jay.arusys@gmail.com>
+| | |   Date:   Wed Oct 3 16:59:46 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit d6152400e6bbc66f33f6e1653b1fac1989a8b1ae
+|  /  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Wed Oct 3 16:59:20 2018 +0530
+| |   
+| |       Fixed year calculation in experience
+| |   
+| *   commit ef5a9f890ccde5a492afbda6d20ae1f929873da2
+| |\  Merge: 8dfd27b1 f1ac4301
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/|   Date:   Wed Oct 3 16:53:54 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 8dfd27b1da240fa52d0561ad2d8dbd7453316a0d
+|   Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Wed Oct 3 16:53:36 2018 +0530
+|   
+|       Incomplete Info and Incorrect Info retrieved
+| 
+* commit f1ac4301695434cf46282f6a6aeb0cae99182b26
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 3 16:40:56 2018 +0530
+| 
+|     Remove data in responce of SaveScaneOnlyIdCardDetail API
+| 
+* commit eca4152f843f925236cb871b96f528cd80bd626f
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 3 16:37:36 2018 +0530
+| 
+|     Dynamic form other,address and DOB data add in document very checkbox - remove log comment
+| 
+* commit e7a8682e89e7ce49f470ac45fb19b12b67fd2c74
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 3 16:35:56 2018 +0530
+| 
+|     Dynamic form other,address and DOB data add in document very checkbox
+| 
+* commit 950af80a29bc9a24dfb9b4a73610b72fc1d4857d
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Wed Oct 3 14:38:34 2018 +0530
+  
+      profile image parameter add, sane id card QR code downlaod option and sane id check is valid or not if valid then save log of id
