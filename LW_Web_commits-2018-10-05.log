@@ -1,0 +1,134 @@
+*   commit aeb2b58aa71cb804e44b1cff760a563abbaaadf4
+|\  Merge: 9f47a808 9eaad5a4
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Oct 5 20:52:49 2018 +0530
+| | 
+| |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 9f47a8087330ada590055107b29f67614e0e8446
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Oct 5 20:52:34 2018 +0530
+| | 
+| |     Pagelet homepage redirect for company and switch user
+| | 
+| * commit 9eaad5a41008442fbda90912b94341187c47e34b
+| | Author: Atul Goswami <atulgoswami21@gmal.com>
+| | Date:   Fri Oct 5 20:40:50 2018 +0530
+| | 
+| |     Bug Fixes
+| |   
+* |   commit 5206ed2111014b055c1aa0ccf348a8fe7bdb8554
+|\ \  Merge: fd926d61 35b8c978
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Fri Oct 5 20:09:33 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit 35b8c97824c1dd548ec494956f0dba89ae45cb69
+| |\ \  Merge: 0f0e318d f145a7d7
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Fri Oct 5 19:27:23 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit 0f0e318d518479a6b44ad20250d95fe731e9fb78
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Fri Oct 5 19:27:03 2018 +0530
+| | | | 
+| | | |     Manage session expaired in Form, Section and dynamic form
+| | | |   
+* | | |   commit fd926d6161b7b58ec038b28b9427381f94840fb9
+|\ \ \ \  Merge: 89bfab34 f145a7d7
+| | |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Fri Oct 5 18:32:24 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit f145a7d7b37abfb9eba06ca9ba7889db3f2db3f4
+| |/ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Fri Oct 5 18:30:02 2018 +0530
+| | |   
+| | |       Form group in grid view form
+| | |   
+* | |   commit 89bfab341cc3427072da1a813f8face6de4d5c0e
+|\ \ \  Merge: 4276016d 8fe5853f
+| |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |   Date:   Fri Oct 5 18:15:17 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit 8fe5853f3187b6713f047dd9611fcee9d6913e41
+| |\ \  Merge: 53cc4ec4 2ab37984
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Fri Oct 5 17:28:35 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit 53cc4ec43f9deda7ff083990ed42accb8945da0a
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Fri Oct 5 17:28:21 2018 +0530
+| | | | 
+| | | |     Form group in grid view form
+| | | |   
+* | | |   commit 4276016d34061f2da67dfc6a65ae78d3388fa309
+|\ \ \ \  Merge: 2ab37984 be7139bb
+| |_|/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+|/| | /   Date:   Fri Oct 5 17:19:34 2018 +0530
+| | |/    
+| |/|         Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit be7139bb33d5df19c6a39077c598783470d8c98c
+|  /  Author: Atul Goswami <atulgoswami21@gmal.com>
+| |   Date:   Fri Oct 5 16:47:32 2018 +0530
+| |   
+| |       Personalize Page Delete Issue
+| |   
+* |   commit 2ab379847bc882e5c0f912c399c99abc98fb40da
+|\ \  Merge: 375633d8 4c745ba1
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Fri Oct 5 16:10:45 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 375633d8f71823f7e5f89e0fd68f954838bc8fb0
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Fri Oct 5 16:10:28 2018 +0530
+| | 
+| |     CHange in date format logic
+| |   
+| *   commit 4c745ba1e719ab2b0cc51bf16e59c7d573bfaf9c
+| |\  Merge: a69494d1 3035ae95
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|/|   Date:   Fri Oct 5 13:01:09 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit a69494d1b8dfa8ce23342e7004ecf1d582641676
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Oct 5 13:00:58 2018 +0530
+| | 
+| |     Form releted small chanegs
+| | 
+* | commit 3035ae95a79a46c4f4a0c826bd3b84bbadcbd837
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Fri Oct 5 12:36:17 2018 +0530
+| | 
+| |     Resolve : Invalid date format issue
+| | 
+| * commit 15caabd6b75b54fc49716576fc20fe41fc78943c
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Oct 5 11:47:57 2018 +0530
+| | 
+| |     Form releted small chanegs
+| | 
+| * commit 1e43611171f3076fa0a5045de1f41135954af6a3
+|/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Fri Oct 5 11:32:28 2018 +0530
+|   
+|       Form releted small chanegs
+| 
+* commit 998def94409832b53925fc617a35ea9e8bfa3b78
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Fri Oct 5 10:57:55 2018 +0530
+  
+      If education complete year not entered then add value as 'Present'
