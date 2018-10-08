@@ -1,0 +1,122 @@
+* commit 836f7daa5079c36cf9cfd52c81b720f0b1cc3904
+| Author: Anil Arusys <anil.boricha@arusys.com>
+| Date:   Mon Oct 8 23:52:23 2018 +0530
+| 
+|     India query change for tokensale check
+|   
+*   commit 1b894021b62c244b39dd44f6ca0f93c2a2ce041b
+|\  Merge: 0acdf300 e119125c
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Oct 8 23:40:20 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit e119125c682f9315599ce103f1e39589d511b5d0
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Mon Oct 8 22:44:28 2018 +0530
+| | 
+| |     form QR display with ajax with popup title also change with ajax
+| |   
+| *   commit 2d68d24c7b5ba49f995fae850037a478377b8243
+| |\  Merge: b4fb6cf0 9dee6725
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Mon Oct 8 22:17:12 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit b4fb6cf0e2fc352c92b4bab54a1c3da59a1a82d4
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Mon Oct 8 22:16:57 2018 +0530
+| | | 
+| | |     form QR display with ajax with popup title also change with ajax
+| | |   
+* | |   commit 0acdf3001e0778c04b7fc16137a059d9c5f68158
+|\ \ \  Merge: 75d51242 2f857576
+| | | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | | Date:   Mon Oct 8 20:10:27 2018 +0530
+| | | | 
+| | | |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | |   
+* | | |   commit 75d51242d9a297a7d9c738d34e92ea3ff1c54c42
+|\ \ \ \  Merge: cc985bed 9dee6725
+| | |_|/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Mon Oct 8 18:48:12 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | * | commit 2f857576bea2f66d66aade9c37dbfd8d95d67bfc
+| |  /  Author: Atul Goswami <atulgoswami21@gmal.com>
+| | |   Date:   Mon Oct 8 18:42:52 2018 +0530
+| | |   
+| | |       Bug Fixes from 5th September
+| | |   
+| * |   commit 9dee67254aa1e01e38b4ff392eb379f1eea7e1e8
+| |\ \  Merge: e9796c91 828309c3
+| | |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | |   Date:   Mon Oct 8 16:32:08 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit e9796c91b47cb0a8e277e8e352345037950f2ef9
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Mon Oct 8 16:31:44 2018 +0530
+| | | 
+| | |     Add captcha code in form
+| | |   
+* | |   commit cc985bed7f10919a61ed9f638f8852a603807030
+|\ \ \  Merge: 70199e4a 828309c3
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Mon Oct 8 16:26:08 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 828309c3038e9af424662745c5667289aa1618de
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Mon Oct 8 12:35:15 2018 +0530
+| | | 
+| | |     title <br> issue resolve
+| | |   
+* | |   commit 70199e4a5408b6517a0a94d630a192c3a9000859
+|\ \ \  Merge: 1e6492e9 3c8650b6
+| |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |   Date:   Mon Oct 8 12:27:19 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 3c8650b65c49a1954c2c5913c57c11f595a2a21c
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Mon Oct 8 12:23:44 2018 +0530
+| | | 
+| | |     other title issue in form API
+| | | 
+* | | commit 1e6492e9f0376d26671480b3f5574405056b1f2c
+|/ /  Merge: aeb2b58a 34efcdc2
+| |   Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Mon Oct 8 11:41:51 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| |   
+* |   commit 34efcdc2a1bc276dc6626f946201543be89200aa
+|\ \  Merge: 1af5886d ebf1487a
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| |   Date:   Mon Oct 8 11:32:21 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 1af5886d83b28349aadd5a3756345839f2aa7d03
+ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Mon Oct 8 11:32:08 2018 +0530
+|   
+|       other title issue in form API
+| 
+* commit ebf1487a4e3fb40ae3da6b11c89ef7fe29c3161a
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Mon Oct 8 11:29:43 2018 +0530
+| 
+|     Redirect to login if session expaired and swith profile
+| 
+* commit eb7027c0d056d512d68c5ae69d8f028cd982dad8
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Mon Oct 8 11:22:02 2018 +0530
+  
+      Data access request disable multiple time notification
