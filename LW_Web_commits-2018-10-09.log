@@ -1,0 +1,165 @@
+*   commit b41f93e52ee725a9b10d5e566e947e40adafa942 
+|\  Merge: ff40a3dc 1c280106
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 9 20:19:00 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 1c280106794381b4eaf99c08bb1bd779a2bf7ffa
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 20:13:49 2018 +0530
+| | 
+| |     form capcha extra element remove
+| | 
+| * commit dcd95bf843a3b8bd3880ce8c2f147d2a9f1a6c4f
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 20:11:52 2018 +0530
+| | 
+| |     form capcha extra element remove
+| |   
+* |   commit ff40a3dca205c1a6d21c74ecac0ee415219295c9
+|\ \  Merge: eb88fa02 11168180
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Tue Oct 9 20:07:45 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 11168180816b21221c628c9e706a67ee36052be4
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 20:04:13 2018 +0530
+| | 
+| |     form capcha extra element remove
+| |   
+* |   commit eb88fa0251d1bfd38833e9e62470f4a9099c3644
+|\ \  Merge: 842c9bc5 f7f82c3c
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Tue Oct 9 20:01:49 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit f7f82c3c1fb668603acbc74fc7166ae45cab704f
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 19:59:49 2018 +0530
+| | 
+| |     form capcha extra element remove
+| |   
+* |   commit 842c9bc575ef1813be34504a084951fc1e3732bb
+|\ \  Merge: 1d9139a7 6bd90db6
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Tue Oct 9 19:45:57 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 6bd90db627557321516d25eb2d3f175c77977d8a
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 19:44:10 2018 +0530
+| | 
+| |     form capcha extra element remove
+| | 
+| * commit df312a1d61dfd259a398d9af5f31ace537dff28c
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 19:25:41 2018 +0530
+| | 
+| |     form capcha extra element remove
+| |   
+* |   commit 1d9139a73d8e96a966ccac2ee3dce7fc8ef7bb62
+|\ \  Merge: 84aade37 fedcd57f
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 9 18:28:35 2018 +0530
+| |   
+| |       Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit fedcd57f7ca2a8514e319cc034c9c051346af75a
+|   Author: Atul Goswami <atulgoswami21@gmal.com>
+|   Date:   Tue Oct 9 18:20:59 2018 +0530
+|   
+|       Pending Bug Fixes
+|   
+*   commit 84aade3778fae673b73b65a1716ad0c565ad6dc2
+|\  Merge: dcd93216 6b8673f7
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 17:59:03 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit dcd93216d34aadec6a57c0b3dacac0e378e837b9
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 17:58:51 2018 +0530
+| | 
+| |     user profile image parameter add in ApiCompleteDataAccessRequest API
+| |   
+| *   commit 6b8673f7e5752c7142075c233712baa7799285f8
+| |\  Merge: 5c70b6ca 2c0b62e0
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/|   Date:   Tue Oct 9 17:49:19 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 5c70b6ca15a9b2f027a9b159c8f14329c56b0ed3
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Oct 9 17:49:03 2018 +0530
+| | 
+| |     captcha code as individual control
+| | 
+* | commit 2c0b62e0c1a0f8a9204e51098f88bb645fcbbdaa
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 17:38:46 2018 +0530
+| | 
+| |     deni data not display in completeDataAccessRequest API test
+| | 
+* | commit bea233ad6155138385bfe43d5b4c3698748db670
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 17:31:07 2018 +0530
+| | 
+| |     deni data not display in completeDataAccessRequest API test
+| |   
+* |   commit 460f8dd8a7eeb0562f0f07100846ccdd59e1874c
+|\ \  Merge: f79fb604 0e38f4c3
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| |   Date:   Tue Oct 9 17:13:05 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit f79fb6042c7602e654718ec942d55380627aa241
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 9 17:12:39 2018 +0530
+| | 
+| |     deni data not display in completeDataAccessRequest API test
+| |   
+| *   commit 0e38f4c3f78bfb33e9b8e5b2f03e5fe869296098
+| |\  Merge: 60ee7056 92d5e014
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/|   Date:   Tue Oct 9 17:00:35 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 60ee705682125386938685daac43ac908bdbfbfb
+|   Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Tue Oct 9 17:00:13 2018 +0530
+|   
+|       Add loader in data access request
+| 
+* commit 92d5e0142051a3c16ee2c9cd957c67c4edb86b2d
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 9 13:40:25 2018 +0530
+| 
+|     completeDataAccessRequest denied data not display API issue
+| 
+* commit 50a5cab02affa906e5fec571a89094c89b5e2a68
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 9 12:52:41 2018 +0530
+| 
+|     get very view error hendel
+| 
+* commit a4c8caa890e9c10844162f127cf9d60eae521cc8
+| Merge: d76de674 836f7daa
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 9 12:44:39 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit d76de674a1ebb88d49c2ca79c7d3aaf68d4bf84e
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Tue Oct 9 12:44:06 2018 +0530
+  
+      get very view error hendel
