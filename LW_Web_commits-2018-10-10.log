@@ -1,0 +1,76 @@
+*   commit f56d45b525183da7c8bcde97a63f1eb95f98af68
+|\  Merge: d1db04aa e88ba08d
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Wed Oct 10 19:59:15 2018 +0530
+| | 
+| |     Resolve formcontroller conflict
+| | 
+* | commit d1db04aaad0eb14ccca23a253f128049681741d9
+ /  Author: jaydev943 <jay.arusys@gmail.com>
+|   Date:   Wed Oct 10 19:56:15 2018 +0530
+|   
+|       Edit Design Certificate Working
+|   
+*   commit e88ba08d40201f3fad29621b2f57f7d85706af54
+|\  Merge: c2f143f1 8d462855
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 10 19:04:22 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit c2f143f1f06e7ce302469b0a955949f1cae2a4ec
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 10 19:04:06 2018 +0530
+| | 
+| |     Add organization change mail content
+| |   
+| *   commit 8d46285534e966159ab9d1b32a31166c09882629
+| |\  Merge: 6e207cbc 0a7eaf3f
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|/|   Date:   Wed Oct 10 17:10:11 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 6e207cbce8faf46d4a0b2ffde2f1f17f65757c56
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Wed Oct 10 17:09:54 2018 +0530
+| | 
+| |     notification text chaneg also text chaneg in lord more view
+| | 
+* | commit 0a7eaf3f563da46b47adc8cbb7add1af04a450cc
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 10 16:37:35 2018 +0530
+| | 
+| |     Correct experience calculation in get verified
+| | 
+* | commit 2932672fbc017cc53312c18a00a98ca2d63acbd3
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 10 16:09:49 2018 +0530
+| | 
+| |     Correct spelling mistake in data access request
+| |   
+* |   commit 9f35e1227c8b73c463373122f7d5f94cc430b70f
+|\ \  Merge: 9aa56d15 45149ddc
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Wed Oct 10 15:44:01 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 9aa56d15933350c1fd9593d93b041194276963d9
+ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Wed Oct 10 15:43:39 2018 +0530
+|   
+|       Refresh captcha code in dynamic form
+| 
+* commit 45149ddc3c87bb57d054c9564deb09324b2f7f03
+| Merge: c49e1ce2 b41f93e5
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 10 13:49:50 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit c49e1ce267c89ea1372b16dddeffc7721058d9f9
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Wed Oct 10 13:49:24 2018 +0530
+  
+      profile image add in project and experience
