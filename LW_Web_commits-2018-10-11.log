@@ -1,0 +1,62 @@
+*   commit 70696aeeb9126b7a7ccf97c463c751c5f6f3618d
+|\  Merge: 09b70937 2c61e3c5
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 11 21:22:06 2018 +0530
+| | 
+| |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 2c61e3c56fa9d057b86e763ede560d2d80971684
+|   Author: Atul Goswami <atulgoswami21@gmal.com>
+|   Date:   Thu Oct 11 19:12:43 2018 +0530
+|   
+|       Trello Bug Fixes
+|   
+*   commit 09b70937047231e4ede86c8a9abbd3e31ee89dde
+|\  Merge: 8e615380 dcd3a89c
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Thu Oct 11 18:41:03 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 8e61538059c042f2095728f5775da453b3a0652d
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Thu Oct 11 18:40:42 2018 +0530
+| | 
+| |     Blog list > Edit comment not working
+| |   
+| *   commit dcd3a89c072dddf6a2ef62afa877e2036eb62204
+| |\  Merge: a1786f2d 7b6ef7e4
+| |/  Author: jaydev943 <jay.arusys@gmail.com>
+|/|   Date:   Thu Oct 11 18:33:19 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit a1786f2d2d873ccd0da53bae009ea295278a7f40
+|   Author: jaydev943 <jay.arusys@gmail.com>
+|   Date:   Thu Oct 11 18:32:45 2018 +0530
+|   
+|       Fixed Edit Issue ID Card errors
+| 
+* commit 7b6ef7e4302847a969be841de9fa18fb0c80f05b
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Thu Oct 11 18:10:38 2018 +0530
+| 
+|     upload/change profile pic-> it uploads profile pic without clicking on upload button
+| 
+* commit ea3f392cc9617be776af7c5ba4d325dd43d766af
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Thu Oct 11 17:59:34 2018 +0530
+| 
+|     Production- Notification is not redirecting on correct page
+| 
+* commit 4af5fbe6c9c067e5549f49f1e6bc21387076df33
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Thu Oct 11 16:57:14 2018 +0530
+| 
+|     Wallet > identity > address is not coming correct
+| 
+* commit e5623f04646a43ce5e6737fce16384230f8975b9
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Thu Oct 11 12:42:34 2018 +0530
+  
+      Comment with read more and display word wrap pre line
