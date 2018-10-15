@@ -1,0 +1,104 @@
+*   commit b359e07cbc6656eeed3382c06f7598aba1ded8a2
+|\  Merge: b1c52b45 6ac88228
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Oct 12 19:49:54 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| |   
+| *   commit 6ac88228e7797c27eba839e965d8ea67b185dd4f
+| |\  Merge: a22e1144 9b8cbfb4
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Fri Oct 12 19:46:43 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit a22e114490c541fd3f53ce4df424da1fdb0fafc4
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Fri Oct 12 19:46:27 2018 +0530
+| | | 
+| | |     DataAccessRequest API issue resolve
+| | |   
+* | |   commit b1c52b455f8ab9c880b477423373bc31aa3f6d49
+|\ \ \  Merge: e2d15dc4 9b8cbfb4
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Fri Oct 12 17:56:04 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit e2d15dc4afa49ec74d63c10216eb9f4a099fcd7a
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Fri Oct 12 17:55:54 2018 +0530
+| | | 
+| | |     Null check on geo location
+| | |   
+| * |   commit 9b8cbfb4341d603ae32efd5f16dfa68a845980d4
+| |\ \  Merge: af364407 d68383b9
+| | |/  Author: jaydev943 <jay.arusys@gmail.com>
+| | |   Date:   Fri Oct 12 17:52:36 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit af3644079f7a322c3c646c9d627ae7e5247abb20
+| | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | Date:   Fri Oct 12 17:52:08 2018 +0530
+| | | 
+| | |     Fixed Edge,IE and Safari browser crash issue on ID card
+| | |   
+* | |   commit dfd02240d88b4ab25e1584f0b1fe60c7420a71f4
+|\ \ \  Merge: 7050cfe0 d68383b9
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Fri Oct 12 17:31:05 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit d68383b94d7e542200f03f3a1873e4ad65929d47
+| |\ \  Merge: 3d2d880e 28cf19da
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Fri Oct 12 17:25:50 2018 +0530
+| | | | 
+| | | |     scanToConnection API create and notifiation set
+| | | | 
+| * | | commit 3d2d880ebc93418dda58789b310bf2820136fd05
+|  / /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Fri Oct 12 17:17:26 2018 +0530
+| | |   
+| | |       scanToConnection API create and notifiation set
+| | |   
+* | |   commit 7050cfe069757c335cdc3bd474a6a7796825e7df
+|\ \ \  Merge: c2c0f86b 28cf19da
+| |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |   Date:   Fri Oct 12 16:19:15 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 28cf19daaa588ea64a353bb711d90377a40ac5a8
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Fri Oct 12 15:50:52 2018 +0530
+| |   
+| |       Site Management correct date format and add confirmation box in all grid
+| |   
+* |   commit c2c0f86b3222fa7cef9264901f9df2c9ed276f1c
+|\ \  Merge: 35f2a6d7 19c75dff
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Fri Oct 12 11:56:51 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 35f2a6d7a1c35b5e4edfa624fdf486b8b64c2e2a
+| | Merge: 70696aee 4d802524
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Oct 12 11:56:22 2018 +0530
+| | 
+| |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 19c75dff1815545aa01a2134b1f99bed32e72075
+|   Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Fri Oct 12 11:13:18 2018 +0530
+|   
+|       Blog label link not working without login
+| 
+* commit 4d802524bb27a9afff36d5f3d48c68d5dd2b057a
+  Author: Atul Goswami <atulgoswami21@gmal.com>
+  Date:   Fri Oct 12 10:25:19 2018 +0530
+  
+      View Page Options On Pages
