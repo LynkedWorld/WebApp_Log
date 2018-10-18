@@ -1,0 +1,83 @@
+*   commit ce4d70394edbf63b896674a2b7feed4d365af6e7
+|\  Merge: 4302b7ef cef3708b
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 18 22:00:27 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 4302b7ef84b4d79d3333af5f9ae878f8aca3db26
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 18 22:00:07 2018 +0530
+| | 
+| |     Tokensale live make btn display for out india only
+| |   
+| *   commit cef3708be0124019b7c262faa53cde82a8a7919c
+| |\  Merge: a8f1316c e82fc0fc
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Thu Oct 18 21:59:03 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit a8f1316c35ec8b978d4ce87f3c984f98fbb446a9
+|  /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| |   Date:   Thu Oct 18 21:58:45 2018 +0530
+| |   
+| |       issue id card name change issue resolve
+| | 
+* | commit 68c7a31644bf9a3b70240cce4bfb6a6526d2006a
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 18 21:24:29 2018 +0530
+| | 
+| |     Company signup and login from home
+| |   
+* |   commit 294286bf9bf3dfcc72e96e9947b74abe76db7b2e
+|\ \  Merge: 9817abad e82fc0fc
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Thu Oct 18 16:56:23 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit e82fc0fc1d239f10196a26f71f4892cb6a8caf3b
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Thu Oct 18 16:50:19 2018 +0530
+| | 
+| |     Flashy button for tokensale
+| |   
+* |   commit 9817abad593f3666e615dfdec7a7336a0c335281
+|\ \  Merge: 72abb93f e1f096a7
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Thu Oct 18 16:20:45 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit e1f096a7ce3e17e06202ada0a5b2dce8c17bc4db
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Thu Oct 18 16:05:17 2018 +0530
+| | 
+| |     company signup and login form added
+| | 
+* | commit 72abb93fd03101d18186b8101c03b113b95e9596
+| | Merge: 0b48112c 504c4601
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 18 15:56:51 2018 +0530
+| | 
+| |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 1a32709df3aa39e7d5501e3f2940c74baa7ebd18
+|   Merge: 3aa47a53 0b48112c
+|   Author: Nishant <nishant.arusys@gmail.com>
+|   Date:   Thu Oct 18 12:59:34 2018 +0530
+|   
+|       text and minor changes
+| 
+* commit 504c46013c3ba607c2337aadc50a326ff353d88b
+| Author: Atul Goswami <atulgoswami21@gmal.com>
+| Date:   Thu Oct 18 12:55:46 2018 +0530
+| 
+|     View Page BG on Edit Mode
+| 
+* commit 4fb837ae92f6d6c46f3aaee2bea487b0faa24946
+  Author: Atul Goswami <atulgoswami21@gmal.com>
+  Date:   Thu Oct 18 11:27:13 2018 +0530
+  
+      Create Page Alignment Fixed

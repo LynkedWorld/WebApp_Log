@@ -1,0 +1,69 @@
+* commit 3aa47a53d0bf8db27d3c2d9ba84e00b6eeb3356f
+  Author: Nishant <nishant.arusys@gmail.com>
+  Date:   Wed Oct 17 20:00:59 2018 +0530
+  
+      refer email text changes
+    
+*   commit 0b48112c2962cba23a8495a83821e17f18f5ea02
+|\  Merge: bda5d699 0c1a717a
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 17 16:04:08 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit bda5d699e88c47eade01e1824e8dd15cefa2dbeb
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 17 16:03:54 2018 +0530
+| | 
+| |     Change ajax loader image
+| |   
+| *   commit 0c1a717aca0ebda993d3f84d76d4426c113bb645
+| |\  Merge: 8bfb5718 ab8d9517
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|/|   Date:   Wed Oct 17 15:53:14 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 8bfb571853f7513838304742e70ef4a1596f04ed
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Wed Oct 17 15:53:01 2018 +0530
+| | 
+| |     request already sent but not accept then request accept autometicaly
+| |   
+* |   commit ab8d9517f684b5ea7384476acde569370129afc8
+|\ \  Merge: ea66148a 25032c6a
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Wed Oct 17 15:24:31 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit ea66148a40e106b2397d2b3ff08fbfe6f3387ef7
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Wed Oct 17 15:24:08 2018 +0530
+| | 
+| |     Remove search and record per page form site management lists
+| | 
+| * commit 25032c6a8fade8955b899a47c88550b8288e89bd
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Wed Oct 17 15:01:41 2018 +0530
+| | 
+| |     request already sent but not accept then request accept autometicaly
+| |   
+| *   commit 69bbf5763cfb7d78c9815719ce7bbdaf1507191c
+| |\  Merge: 6691eadf 3114fbb7
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|/|   Date:   Wed Oct 17 14:51:16 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 6691eadfaf4fbdfd8b916dacd30d304f30a661e4
+|   Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Wed Oct 17 14:42:39 2018 +0530
+|   
+|       request already sent but not accept then request accept autometicaly
+| 
+* commit 3114fbb7420b9eec3326b7dfe72b18747ed96327
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Wed Oct 17 11:54:54 2018 +0530
+  
+      Site Management > List all access point error
