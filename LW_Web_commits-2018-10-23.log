@@ -1,0 +1,227 @@
+*   commit 1ecfc21e1135f6f96a658051a6dc08ea688a1e13
+|\  Merge: 8ea748f9 8e6a9f31
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 23 22:20:55 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 8e6a9f31dc8a8fa8241a15e71c0f528bec8dd987
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 22:19:53 2018 +0530
+| | 
+| |     resolve undefind error in form controller
+| |   
+* |   commit 8ea748f9e160a829300eb4c01a6fca7c912c9fff
+|\ \  Merge: 623f69b2 c018c5f4
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Tue Oct 23 21:59:37 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit c018c5f43d7682cd96e71398dc5bb40eeed57651
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 21:57:44 2018 +0530
+| | 
+| |     company id error resolve
+| |   
+* |   commit 623f69b29acbdbf4495c1f0fdb2a013d0055c69d
+|\ \  Merge: b18efc4b 5e2f6f01
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Tue Oct 23 21:32:19 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit b18efc4b42a4bcb0624bf35c162c2666c6d29229
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 23 21:32:01 2018 +0530
+| | 
+| |     Profile pic plugin for company issue
+| | 
+| * commit 5e2f6f01ff0b29d4f2af96db1cdb0d6a7a7b7666
+|/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Tue Oct 23 20:25:04 2018 +0530
+|   
+|       issue_id_card add 'doc_txnno' and 'doc_hash' pater for show in App
+|   
+*   commit 0b0db59a56dc8955b2ec1d3682e861ef5498f704
+|\  Merge: c297c294 d9d182aa
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 19:23:16 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit c297c2943eb3ea831fc9b79415520ab24773eae4
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 19:23:01 2018 +0530
+| | 
+| |     QR code issue in bengali and other company and sendVerifyDataRequest user name issue in varification requesst
+| |   
+| *   commit d9d182aa7bd30261b9a43c32d0489fa61a23b662
+| |\  Merge: a7534ede 3d6c355d
+| |/  Author: Nishant <nishant.arusys@gmail.com>
+|/|   Date:   Tue Oct 23 17:58:05 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit a7534ede1ef03a5cc15d766d98eef0a709063e2b
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Tue Oct 23 17:57:32 2018 +0530
+| | 
+| |     profile and cover changes
+| | 
+* | commit 3d6c355d50f5254ad26d6c2222fe51213aea3f0f
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 17:44:24 2018 +0530
+| | 
+| |     profile image and cover image name change
+| | 
+* | commit d94957966fe8e9b585a9e4e576785516f70ee100
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 17:25:19 2018 +0530
+| | 
+| |     Token delte query remove in close account
+| | 
+* | commit d35842fb7e3c96262cd252e44c4ce0186431ea5e
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 17:20:41 2018 +0530
+| | 
+| |     Token delte query remove in close account
+| |   
+* |   commit a08138dc1e6b0b1c5ed528a9bc220fc1f0e71ec4
+|\ \  Merge: 1fe92e7b 6bbc6087
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Oct 23 17:20:08 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 1fe92e7b9c06c890571c9545ce8f36d6c9946467
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Oct 23 17:19:53 2018 +0530
+| | | 
+| | |     Token delte query remove in close account
+| | |   
+| * |   commit 6bbc6087a5b58763cbca9ab70594d21fe09ae4ca
+| |\ \  Merge: 5ae6cdec 049c3f0e
+| |/ /  Author: jaydev943 <jay.arusys@gmail.com>
+|/| |   Date:   Tue Oct 23 16:32:59 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 5ae6cdece67f4313ead0fbe56f34990ab9851f21
+| | | Author: jaydev943 <jay.arusys@gmail.com>
+| | | Date:   Tue Oct 23 16:32:21 2018 +0530
+| | | 
+| | |     Fixed QRcode issue on ID Card
+| | | 
+* | | commit 049c3f0e9bc724a1b6aac4fadf82f39cb21a7cb3
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Oct 23 15:52:55 2018 +0530
+| | | 
+| | |     notification count deleted user data pass API
+| | | 
+* | | commit 6a295c79295b886490689c73145655ce3d5a48c9
+|/ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| |   Date:   Tue Oct 23 15:51:14 2018 +0530
+| |   
+| |       notification count deleted user data pass API
+| | 
+| * commit 3fbf5e008a65a47603c7e658194b1f92f8a1132e
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Tue Oct 23 14:45:54 2018 +0530
+| | 
+| |     login layout changes of steps on trello
+| | 
+* | commit dd412ec54668b19c74f5d516a50783c73f6944dd
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 23 14:37:19 2018 +0530
+| | 
+| |     delete user flage manage in notification service and get profile service
+| |   
+* |   commit 717bd7bbc640262e507820365832c2eb18144833
+|\ \  Merge: ff78a397 e8bdf920
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Oct 23 14:35:06 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit ff78a397b6602d5867be7b05bc13e41e91db8cea
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Oct 23 14:34:45 2018 +0530
+| | | 
+| | |     delete user flage manage in notification service and get profile service
+| | | 
+* | | commit 01bd4c6c484f8705364170363da895055f226680
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Oct 23 14:34:29 2018 +0530
+| | | 
+| | |     delete user flage manage in notification service and get profile service
+| | | 
+| | * commit 1ff87fe5f735f779f127fff71c8edaad7af16685
+| | | Author: Nishant <nishant.arusys@gmail.com>
+| | | Date:   Tue Oct 23 13:59:36 2018 +0530
+| | | 
+| | |     profile image and cover design issue resolved
+| | | 
+| * | commit e8bdf9206bff3559e289ed47cbfd7ba8ca74353c
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Tue Oct 23 13:18:59 2018 +0530
+| | | 
+| | |     Success invitation accept
+| | |   
+| | *   commit f8a1169c425b30d58288d1a93180ccc32687a9bc
+| | |\  Merge: 8a2ca9ac 97c50334
+| | |/  Author: Nishant <nishant.arusys@gmail.com>
+| |/|   Date:   Tue Oct 23 11:51:10 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 97c50334d35571196d2966d0322cdd9371d621cd
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Tue Oct 23 11:49:25 2018 +0530
+| | | 
+| | |     Change cover image aspect ratio
+| | |   
+| * |   commit 0b9f67ff79c0656e048c752660ad32e53f262f3a
+| |\ \  Merge: fa73d3ec 8c8a6ce6
+| |/ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/| |   Date:   Tue Oct 23 11:39:07 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit fa73d3ec9118e3df1e5f007e691ea358bd7f534b
+|  /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Tue Oct 23 11:38:40 2018 +0530
+| |   
+| |       Change image aspect ratio
+| |   
+| *   commit 8a2ca9ac09e43004bc8f5b3d12b40d3241269a27
+| |\  Merge: 1ee2f053 8c8a6ce6
+| |/  Author: Nishant <nishant.arusys@gmail.com>
+|/|   Date:   Tue Oct 23 11:22:17 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 1ee2f053e011aa3105b1800f03e591ee9a7922aa
+|   Author: Nishant <nishant.arusys@gmail.com>
+|   Date:   Tue Oct 23 11:21:36 2018 +0530
+|   
+|       package.json
+| 
+* commit 8c8a6ce619d12978d9694c632c99bb3d55ecd328
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 23 11:18:27 2018 +0530
+| 
+|     user id add in completeDataAccessRequest API
+| 
+* commit 33ccc4383770f7e261bca787bc93211fa1b9b231
+| Merge: df8c912c c1570aa1
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Tue Oct 23 11:15:09 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit df8c912c55803931b2239bc336e11ca4dcd82ece
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Tue Oct 23 11:14:47 2018 +0530
+  
+      user id add in completeDataAccessRequest API
