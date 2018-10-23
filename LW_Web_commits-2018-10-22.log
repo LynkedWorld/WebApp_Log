@@ -1,0 +1,108 @@
+*   commit c1570aa1e6e30c4188afbc16c9ebe7b563a23d8b
+|\  Merge: fa66d941 f7af803b
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Oct 22 21:46:33 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit fa66d941b5a81d8068d247f3aea6c997eb0bc531
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Oct 22 21:46:11 2018 +0530
+| | 
+| |     Company page list to user pagelist as well
+| |   
+| *   commit f7af803bafe3ad53342f5b2cb77a25f051a00b1c
+| |\  Merge: 3bd240ac 2314752e
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Mon Oct 22 21:07:32 2018 +0530
+| | | 
+| | |     Merge confilct
+| | | 
+| * | commit 3bd240ac6e55f2181b5e57fbc170d463655e7bfd
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Mon Oct 22 21:05:39 2018 +0530
+| | | 
+| | |     Change company pfrofile and cover image with new jquery plugin
+| | |   
+| | *   commit 2314752ef3744e97223a5263bcc99af6bea9f10e
+| | |\  Merge: fae5d036 d778af8e
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Mon Oct 22 20:36:23 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | * | commit fae5d0362651b1326ff89babd7d8d40cabdb82a0
+| |  /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Mon Oct 22 20:36:06 2018 +0530
+| | |   
+| | |       form dynamic document same as web and API
+| | | 
+| | * commit d778af8e04185780899c6532b60bf2b9da679b42
+| |/  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Mon Oct 22 20:35:30 2018 +0530
+| |   
+| |       Fixed company team member issue
+| | 
+| * commit 3900ab9e684e95e97a58fdcc280125b192bbd311
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Mon Oct 22 19:58:29 2018 +0530
+| | 
+| |     Undo for company profile change cover and logo change
+| |   
+| *   commit 72f9f6877cbb657836b389485147bd89bf78f086
+| |\  Merge: b3afeb36 7d8e09a5
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|/|   Date:   Mon Oct 22 19:57:22 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit b3afeb36fa9cf7d6699d0ead119b8eb352a19e54
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Mon Oct 22 19:57:01 2018 +0530
+| | 
+| |     Change profile cover and image for user
+| |   
+* |   commit 7d8e09a57fbccdcfb8d004e101fdb2bad9370233
+|\ \  Merge: a10de913 78e0caf6
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Mon Oct 22 19:26:30 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| |     
+| | *   commit c5a2ae5afd3684a405740585970e10498b4d0b1a
+| | |\  Merge: 77d88e74 78e0caf6
+| | |/  Author: Nishant <nishant.arusys@gmail.com>
+| |/|   Date:   Mon Oct 22 18:34:27 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 78e0caf6552c84116a81055ee330238db131c623
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Mon Oct 22 18:32:57 2018 +0530
+| | | 
+| | |     change Cover image
+| | | 
+* | | commit a10de91356709d9ef3721c27a2394ac6d76ba511
+ / /  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Mon Oct 22 17:25:08 2018 +0530
+| |   
+| |       Display team member added issue if add owner as display member
+| |   
+| *   commit 77d88e7483ecd2780b2f19b6b64c9bea1aa2f578
+| |\  Merge: c744edaf 4dbbfd7d
+| |/  Author: Nishant <nishant.arusys@gmail.com>
+|/|   Date:   Mon Oct 22 16:35:44 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit c744edaf4c8bbcda8aec279b03397fc9fe35d9d9
+|   Author: Nishant <nishant.arusys@gmail.com>
+|   Date:   Mon Oct 22 16:35:15 2018 +0530
+|   
+|       package.json
+| 
+* commit 4dbbfd7dd5b3e11200dbdf282712b7cb965a985a
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Mon Oct 22 16:26:32 2018 +0530
+  
+      Coppier plugin for change profile image
