@@ -1,0 +1,89 @@
+*   commit b28cb68683515e3bf6457fa21f619a42cd989506
+|\  Merge: f74ad629 1ad3de31
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 25 21:51:47 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| |   
+| *   commit 1ad3de31599c154113f4c2293e35a25e76c91c88
+| |\  Merge: d731eb32 94422d34
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Thu Oct 25 21:50:37 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit d731eb32bbcc2b08f1ef1f922c908651c0825037
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Thu Oct 25 21:47:56 2018 +0530
+| | | 
+| | |     delete profile user and cover image user and company
+| | |   
+* | |   commit f74ad62920017948d51e2f59f80ef132f93c9102
+|\ \ \  Merge: d240c178 94422d34
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Thu Oct 25 21:02:39 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit 94422d34f97828142de70e1ab3dfa28d6c5dd419
+| |\ \  Merge: 1c15f9a8 827e7f60
+| | |/  Author: jaydev943 <jay.arusys@gmail.com>
+| | |   Date:   Thu Oct 25 20:58:06 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 1c15f9a80da81266d1a6095d5ab3c90285358b44
+|  /  Author: jaydev943 <jay.arusys@gmail.com>
+| |   Date:   Thu Oct 25 20:57:29 2018 +0530
+| |   
+| |       Workin on Company user login module
+| | 
+* | commit d240c1783732c2f8004d2188c8d071cfa7f06e34
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 25 19:44:26 2018 +0530
+| | 
+| |     Personalized pagelet and edit link permission check when set as home page allow for company reated pages to user
+| | 
+* | commit aa495a257619066766bcfeee91d60ccdd6726002
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Thu Oct 25 17:58:45 2018 +0530
+| | 
+| |     Related company page list set as home page to user and list order changed
+| |   
+* |   commit b713e9728e44bb005318682c3b432896bbcf9bb5
+|\ \  Merge: 3fd401e6 827e7f60
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Thu Oct 25 16:49:32 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 827e7f609deebdc7e02695519876b0c5e9ce56b7
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Thu Oct 25 16:30:38 2018 +0530
+| | 
+| |     QR code wroing in owne profile and vishal vidya own profile appay from QR code popup not open
+| |   
+| *   commit cdfec6916bc6081a0d3e1ae7b89fa98d0612d494
+| |\  Merge: 342b289a 188addcb
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Thu Oct 25 16:29:56 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 342b289a5c575d58ffdad372846e2fa0c6a047ab
+|  /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| |   Date:   Thu Oct 25 16:29:36 2018 +0530
+| |   
+| |       QR code wroing in owne profile and vishal vidya own profile appay from QR code popup not open
+| | 
+* | commit 3fd401e6f003bd3bef194ff560eb4f2cc9c498ef
+ /  Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Thu Oct 25 16:06:54 2018 +0530
+|   
+|       Summary text cut issue resolve
+| 
+* commit 188addcbf8cbec62b9db6955ee6a7a540134a027
+  Author: Nishant <nishant.arusys@gmail.com>
+  Date:   Thu Oct 25 15:49:43 2018 +0530
+  
+      on profile view page delete functionality design
