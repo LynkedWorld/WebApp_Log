@@ -1,0 +1,54 @@
+* commit b424d47f980704d2c451e8df775975278b093d4a
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 24 22:28:23 2018 +0530
+| 
+|     popup notification message change for mobile verification
+| 
+* commit 0e85971e12d21a10a47bb3b144cdc4b3786764aa
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 24 22:26:53 2018 +0530
+| 
+|     popup notification message change for mobile verification
+| 
+* commit 346401b9c619b5935b8e0450bb0eed3ca0454302
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 24 21:17:17 2018 +0530
+| 
+|     notification user detail filter
+| 
+* commit 475fa019ca196abdaf73b19f7079d39668622cd2
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 24 21:14:52 2018 +0530
+| 
+|     notification user detail filter
+| 
+* commit e78389753abf3fbb33411f927874d4c866e97795
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 24 20:37:57 2018 +0530
+| 
+|     getProfile API add company name in verify user data and month issue
+| 
+* commit fbeafde2e4fc6844cbe4db043ec899eb37f40c33
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Wed Oct 24 18:31:00 2018 +0530
+| 
+|     add parameterether_lieve_url add in issue_id_card API
+|   
+*   commit 375f385795755c55982247ece2d3ce1f6ce249ea
+|\  Merge: d031d09e 7e6cd9be
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Wed Oct 24 17:27:08 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit d031d09ebedd499c04c185ebb447e6e26e2e6118
+ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Wed Oct 24 17:26:43 2018 +0530
+|   
+|       Month formate in Experience edit issue resolve
+| 
+* commit 7e6cd9be30c1bd077c9640d55d0117eaac4e4a5a
+  Author: Nishant <nishant.arusys@gmail.com>
+  Date:   Wed Oct 24 15:47:46 2018 +0530
+  
+      tokensale is live button setting
