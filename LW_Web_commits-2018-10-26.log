@@ -1,0 +1,126 @@
+*   commit 4dfb421172cc3c9fcabd463a444e02c292604006
+|\  Merge: 9d186100 7bb48374
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Oct 26 21:24:41 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 9d186100d1a8b6e937c9cde7f9974e218e348c8b
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Fri Oct 26 21:24:27 2018 +0530
+| | 
+| |     Others created page customization limit to that user only
+| |   
+| *   commit 7bb48374a3fb5030d41b4547351cbecbdf9524ea
+| |\  Merge: cd7d7913 b1925049
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Fri Oct 26 21:24:05 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit cd7d7913e3bf3f428f5609710a043b38feeb6fbc
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Fri Oct 26 21:23:35 2018 +0530
+| | | 
+| | |     site qr scan API and scan id card add site name and access point name
+| | | 
+* | | commit dde943e9a39f2220392a1c42508762a793b2fcf5
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Fri Oct 26 20:17:20 2018 +0530
+| | | 
+| | |     Search post img URL changed to post and author have separate URL instered
+| | |   
+* | |   commit d0f13f2a35c0aeaaf7b7a67b71b7187de63840aa
+|\ \ \  Merge: b61f0ef9 b1925049
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Fri Oct 26 19:59:13 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit b61f0ef9067b4bd8f4604bea33c2947b6457a580
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Fri Oct 26 19:25:27 2018 +0530
+| |   
+| |       Wrong company name display on page list issue resolved
+| | 
+| * commit b192504932fc1673cf24d8b97785486405b3d055
+|/  Author: jaydev943 <jay.arusys@gmail.com>
+|   Date:   Fri Oct 26 19:09:23 2018 +0530
+|   
+|       Fixed company user login flow as well as logic
+| 
+* commit 137850fa996ba7b4c921155f3c84579c1f45f124
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Fri Oct 26 17:56:05 2018 +0530
+| 
+|     default image in profile upload/delete API
+| 
+* commit 7491375d774c790e91a5a95349553c5e077c4b19
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Fri Oct 26 16:29:54 2018 +0530
+| 
+|     default image in profile upload/delete API
+|   
+*   commit 4c55b67be255077c5539ba8d451c8e58c700a256
+|\  Merge: 08c08360 8222e7be
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Oct 26 15:45:01 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 08c0836053aa21b24979c1ed8e7d518d4a243d5c
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Oct 26 15:44:38 2018 +0530
+| | 
+| |     profile default image not Coming in getProfile image issue
+| |   
+| *   commit 8222e7be732d7d968b1407a1638b6866f3c2b49b
+| |\  Merge: b8e2324d f6d91471
+| |/  Author: Nishant <nishant.arusys@gmail.com>
+|/|   Date:   Fri Oct 26 14:51:41 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit b8e2324dc83b89864eb06e4c35870f2cb0ae57db
+| | Author: Nishant <nishant.arusys@gmail.com>
+| | Date:   Fri Oct 26 14:50:11 2018 +0530
+| | 
+| |     tokensale is live button setting
+| |   
+* |   commit f6d914719e5d0963a3e81173943f5d9b89f5339b
+|\ \  Merge: c81abbff 01389aab
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Fri Oct 26 14:42:39 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit c81abbff9a292ddad20589377cbf19fcfe3679d3
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Fri Oct 26 14:42:12 2018 +0530
+| | | 
+| | |     profile image delete button visible if imags get from data base and it's not blank
+| | | 
+| * | commit 01389aab1fdbac0ea17e506e98e474c9cfad931c
+|/ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Fri Oct 26 13:32:02 2018 +0530
+| |   
+| |       Issue certificate : Resolve issue if submit issue without attach any file
+| | 
+* | commit 74a58b137412bb6871e8791682fe8996a4c06d6e
+|/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Fri Oct 26 12:57:27 2018 +0530
+|   
+|       default image of profile pic issue in getProfile API
+| 
+* commit eda32eeea91be22365ef8b96ba0a119e0ec8ea4f
+| Merge: 94a0fc94 b28cb686
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Fri Oct 26 11:56:08 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit 94a0fc94d0c556ab2b8cf31b917291e07c72ed68
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Fri Oct 26 11:55:50 2018 +0530
+  
+      without login profile view error
