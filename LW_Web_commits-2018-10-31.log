@@ -1,0 +1,55 @@
+*   commit 6f7fd9936878b13ba1e897e15d46d28550d3bb0d
+|\  Merge: 4916d0e7 24a69de3
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Wed Oct 31 21:29:13 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 4916d0e7ddb7f2527a4adcb0bc4e0bd576818efa
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Wed Oct 31 21:28:47 2018 +0530
+| | 
+| |     Fixed checked as homepage and false other pages
+| | 
+| * commit 24a69de303a17142b85b17bea5d5da58f6a7b7eb
+|/  Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Wed Oct 31 20:12:05 2018 +0530
+|   
+|       Browser related issue for QR download and other
+|   
+*   commit 30159942718bf0a7f8a6c5e3fa2fae1f06730bc3
+|\  Merge: 27aa2140 f21abbf0
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Wed Oct 31 17:27:55 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 27aa21404ebb37d9bb599109efb7a5463cadacd3
+ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Wed Oct 31 17:27:27 2018 +0530
+|   
+|       qr download not sapor in ie issue
+| 
+* commit f21abbf0550615c1290f9f0689d5a0dc12fc41f1
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Wed Oct 31 15:25:32 2018 +0530
+| 
+|     Blog filter count remove deleted blogs
+| 
+* commit fb326bc1107f3c2ce4f13bd69c74913ca3e42d68
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Wed Oct 31 15:12:07 2018 +0530
+| 
+|     Optimization of dashboard feed code
+| 
+* commit a4874ad435638a7ccc8d81387e31893273a6fa6b
+| Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| Date:   Wed Oct 31 11:32:27 2018 +0530
+| 
+|     Job add / edit success message with bootstrapGrowl instead of alert box
+| 
+* commit db17d8192b3ae9f3a8e54ff788b69707b454f66f
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Wed Oct 31 11:14:37 2018 +0530
+  
+      Blog with filder Load More without login not working
