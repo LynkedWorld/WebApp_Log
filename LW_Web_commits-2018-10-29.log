@@ -1,0 +1,146 @@
+*   commit e04267e389d7d4d4b44e016fe3e0891dada4c011
+|\  Merge: 9694c891 464bfb0b
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Oct 29 21:06:30 2018 +0530
+| | 
+| |     Merge branch 'newmodules' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| |   
+* |   commit 9694c8915e8f5cf68c400f7507fa11539f8fce7c
+|\ \  Merge: 05f21bd4 66a45477
+| | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | Date:   Mon Oct 29 20:22:57 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit 66a45477267f4fd2cc1c90799e673e315ff1a52f
+| |\ \  Merge: 52ca5854 69380356
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Mon Oct 29 20:18:33 2018 +0530
+| | | | 
+| | | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit 52ca58543826ac6e0d83539092f94aaba61418be
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Mon Oct 29 20:17:58 2018 +0530
+| | | | 
+| | | |     Image size check in feed list eachi ever user
+| | | |   
+* | | |   commit 05f21bd41c0b7767923fdf255ad599defe0e7653
+|\ \ \ \  Merge: 282226fb 69380356
+| | |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Mon Oct 29 19:44:39 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | |   
+| * | |   commit 6938035603cd1e4c7dd0a7d041a29e56c6c04528
+| |\ \ \  Merge: d67d6a35 379d99d1
+| | |/ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | |   Date:   Mon Oct 29 19:06:49 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit d67d6a358166fdfd537cac7ee3a22e3644cefdc8
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Mon Oct 29 19:06:27 2018 +0530
+| | | | 
+| | | |     Upload student with unique validation
+| | | |   
+* | | |   commit 282226fb496e7115aaebd3d24edc597b52058613
+|\ \ \ \  Merge: 31decda7 379d99d1
+| | |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Mon Oct 29 18:20:32 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | |   
+| * | |   commit 379d99d16a2a89d6b189c29bf3d17d58de502c05
+| |\ \ \  Merge: 7d4c708a 28200d8d
+| | |/ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | |   Date:   Mon Oct 29 18:19:38 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | |   
+* | | |   commit 31decda7c74cc6b59521c45cc0d38ee3f6107dfc
+|\ \ \ \  Merge: cbe9755f 28200d8d
+| | |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Mon Oct 29 18:18:41 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| | * | commit 7d4c708a7f74b91a50a6105e7ac1e7ddd6695e8f
+| | | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | | Date:   Mon Oct 29 18:16:56 2018 +0530
+| | | | 
+| | | |     user_id parameter for feed detail API
+| | | |   
+| * | |   commit 28200d8d3b38b496a83459bdf07e675654df6d73
+| |\ \ \  Merge: d6b50b1a 23842a00
+| | |/ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | |   Date:   Mon Oct 29 18:13:31 2018 +0530
+| | | |   
+| | | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | | 
+| * | | commit d6b50b1a76921904f62ad54f0cbc7e813ed2c39c
+| | | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | | Date:   Mon Oct 29 18:13:16 2018 +0530
+| | | | 
+| | | |     Resolve : Unique not working in school upload student
+| | | |   
+* | | |   commit cbe9755f8d4a3e3666ea2b0cbca3dd5579dba0c9
+|\ \ \ \  Merge: 9fd075da 23842a00
+| | |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/| |   Date:   Mon Oct 29 18:09:53 2018 +0530
+| | | |   
+| | | |       Merge conflict resolve
+| | | | 
+* | | | commit 9fd075dad6fb28a502bb318476e7cf4134d7a549
+| | | | Author: Anil Arusys <anil.boricha@arusys.com>
+| | | | Date:   Mon Oct 29 18:08:06 2018 +0530
+| | | | 
+| | | |     Stash yatin changes
+| | | | 
+| * | | commit 23842a0073a06846544d0ec7ae94a5260c0a67d9
+|/ / /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Mon Oct 29 18:05:03 2018 +0530
+| | |   
+| | |       user_id parameter for feed detail API
+| | | 
+* | | commit 9876233c463b9e3438a627c6a547209cbafba89a
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Mon Oct 29 16:59:25 2018 +0530
+| | | 
+| | |     user_id parameter for feed detail API
+| | |   
+* | |   commit cbbe2e393e9a553dc6e3efdfef02db1983c7b1d4
+|\ \ \  Merge: 809f00eb 707cdd66
+| |/ /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Mon Oct 29 16:20:10 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+* | | commit 809f00ebecda1c44be1054e0ddfd5dbe24d252fc
+ / /  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| |   Date:   Mon Oct 29 16:19:45 2018 +0530
+| |   
+| |       user_id parameter for feed detail API
+| | 
+* | commit 707cdd666b691a99f9f57744007c519d46ffea80
+| | Merge: 4e4f13e4 4dfb4211
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Mon Oct 29 13:25:35 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 4e4f13e441459d30ef095fc1f76a6413188f89fc
+ /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Mon Oct 29 13:25:18 2018 +0530
+|   
+|       Resolve : pre wrap is not implemented in comments
+| 
+* commit 464bfb0b2519ab8eeeb7508db7a03f8de3b545ba
+  Merge: 504c4601 4dfb4211
+  Author: Anil Boricha <anil.boricha@arusys.com>
+  Date:   Mon Oct 29 07:27:58 2018 +0000
+  
+      Merged in formdatamaster (pull request #17)
+      
+      Formdatamaster
