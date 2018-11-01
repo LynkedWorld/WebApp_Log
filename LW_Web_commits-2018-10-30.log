@@ -1,0 +1,140 @@
+*   commit 699e69d196ee0ba8f522897f9634d9b542a07324
+|\  Merge: d3706a68 9eb22b29
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 22:54:51 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit d3706a68441b496656134626271298c7c1dc8bf0
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 22:54:22 2018 +0530
+| | 
+| |     qr downlaod with HTML2canvash for brawser issue
+| | 
+| * commit 9eb22b290ca3142259a414c815ddcf145bab800c
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Oct 30 19:22:30 2018 +0530
+| | 
+| |     Blog list filter with pagination
+| | 
+| * commit 3d03713eb05f968dcb4e0c7c7cba256043cca6d0
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Oct 30 18:19:27 2018 +0530
+| | 
+| |     Blog labels display wrong counting
+| | 
+| * commit bd76a9244ed25de4039b5c6ed633bc96b0c218a1
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Tue Oct 30 17:23:02 2018 +0530
+| | 
+| |     Job List load more display only if more than 10 jobs in listing
+| |   
+| *   commit e2e9413f484b227161567c6651cc305195e3789f
+| |\  Merge: dc392a3f b24590a0
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Tue Oct 30 16:23:50 2018 +0530
+| | | 
+| | |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit dc392a3f77ea844ed165e5befa97e2ac5816cd42
+|  /  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Tue Oct 30 16:23:26 2018 +0530
+| |   
+| |       Jobs related changes
+| | 
+| * commit b24590a09b75c602b7d8b9afa26a010acfa6b827
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Oct 30 15:24:55 2018 +0530
+| | 
+| |     Feed services API updated
+| |   
+| *   commit 72ead3a2ac7f828d79002f7c247beb25f798a918
+| |\  Merge: 5f25a683 293aaf02
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 30 14:47:16 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 293aaf02ebfdc2b03249e2322d56e67a1b448dca
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 14:45:50 2018 +0530
+| | 
+| |     totalComment counter version issue
+| |   
+| *   commit 5f25a68382f15d3858f7f119dac797a36964d7af
+| |\  Merge: 418076f9 75de57c2
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 30 14:20:35 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 75de57c2a96baf3d428504b37dc10fc874143f9f
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 14:19:42 2018 +0530
+| | 
+| |     totalComment counter version issue
+| |   
+| *   commit 418076f9d08e39c6fff15abe7345ae6bed38f339
+| |\  Merge: 24d96f1b 439b6db0
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 30 14:16:01 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 439b6db0596e37bd1bb937c07f456a5986b96660
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 14:14:28 2018 +0530
+| | 
+| |     totalComment counter version issue
+| |   
+| *   commit 24d96f1b2ecd9949de2879f87b5d3a718c355965
+| |\  Merge: 1677b959 2cbd976f
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 30 13:36:54 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 2cbd976f260393a1ecdfe248991ed010ec758924
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 13:34:07 2018 +0530
+| | 
+| |     call delete account socket function
+| |   
+| *   commit 1677b9594ac8e10594699d75fe1ff054dd33f14c
+| |\  Merge: 93d136b1 cf1d873e
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 30 13:26:47 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit cf1d873e8cb26429177c79f69c2aed7a1b105312
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 13:25:50 2018 +0530
+| | 
+| |     bootstrp add socket function for close account
+| |   
+| *   commit 93d136b158e1117c3fa09766bd251a48a221eafb
+| |\  Merge: 0aab3493 79b7da20
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+|/|   Date:   Tue Oct 30 12:50:11 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 79b7da201d28b82bf7edde32da426ecb1947e5ef
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Tue Oct 30 12:47:44 2018 +0530
+| | 
+| |     profile image parameter add
+| | 
+| * commit 0aab349391272469438489e7909c9f6a55e63e47
+|/  Merge: e04267e3 857af38d
+|   Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Tue Oct 30 12:44:59 2018 +0530
+|   
+|       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit 857af38d35019d1b0dab7c57253c27398e249fde
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Tue Oct 30 12:36:08 2018 +0530
+  
+      feed detail API changes
