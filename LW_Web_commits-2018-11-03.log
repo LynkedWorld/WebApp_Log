@@ -1,0 +1,50 @@
+* commit 1756ee8cfbcad29c1500909beaed3d159e003722
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Sat Nov 3 17:20:02 2018 +0530
+| 
+|     update company name in user collecation too
+|   
+*   commit b274900736f6bdcee8e5834d497cb190e0b6bcd7
+|\  Merge: ba56fef0 17ebb2fb
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Sat Nov 3 17:15:24 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 17ebb2fb1ec25f55540583c1a1190e190c59a668
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Sat Nov 3 17:06:38 2018 +0530
+| | 
+| |     Fixed pagelet related issues
+| | 
+* | commit ba56fef0c1706645450e4b08c479f9cbae7f6196
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Sat Nov 3 16:37:46 2018 +0530
+| | 
+| |     update company name in user collecation too
+| |   
+| *   commit af1a265fd92be02372f89d107454714ff7c61bad
+| |\  Merge: 26a7a143 06235a33
+| |/  Author: Nishant <nishant.arusys@gmail.com>
+|/|   Date:   Sat Nov 3 12:43:45 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit 26a7a143dc6237057caa00ac3b3ff0ce404ea247
+|   Author: Nishant <nishant.arusys@gmail.com>
+|   Date:   Sat Nov 3 12:42:41 2018 +0530
+|   
+|       menu first letter icon and blog video design changes
+| 
+* commit 06235a33e800d3246f96c9d010bb149c71f42ecd
+| Merge: a5a39375 95d7ce82
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Sat Nov 3 12:25:46 2018 +0530
+| 
+|     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| 
+* commit a5a39375046a3127d2409fb947b92c7052cd35e0
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Sat Nov 3 12:25:26 2018 +0530
+  
+      delete user access request entry when delete user
