@@ -1,0 +1,80 @@
+*   commit 95d7ce82ccc1d615d48a9b869ef25f00ea892f51
+|\  Merge: 87825170 4e725a35
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Fri Nov 2 21:10:53 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 8782517092c1f7afde1ca3fb38c624b0f08a91e4
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Fri Nov 2 21:10:00 2018 +0530
+| | 
+| |     Fixed pagelet delete and create related issue
+| | 
+| * commit 4e725a357dcdf80f02389db0e973560cfc4a4717
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Nov 2 20:45:24 2018 +0530
+| | 
+| |     notification manage in for data access by QR API
+| | 
+| * commit 3ca2bb84f87d85cf1af56b7b2d2a051d22511608
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Nov 2 20:27:37 2018 +0530
+| | 
+| |     notification manage in for data access by QR API
+| | 
+| * commit a49a320183e09d713a667523cee6bb54aab9ad9f
+| | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | Date:   Fri Nov 2 19:44:39 2018 +0530
+| | 
+| |     notification manage in for data access by QR API
+| |   
+| *   commit fb96eafd61313a9a2fb07f6a25b59d89fbef147e
+| |\  Merge: a3e1748b 470e05f6
+| |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|/|   Date:   Fri Nov 2 19:03:51 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+| * commit a3e1748b932f458ed56c4520496ada56b07590c3
+|   Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+|   Date:   Fri Nov 2 19:03:30 2018 +0530
+|   
+|       data access notification send to user after data access allow with QR code
+|   
+*   commit 470e05f691d3029b04e0ed1a6117c51d8b111154
+|\  Merge: fac892fa d00bad86
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Fri Nov 2 17:39:25 2018 +0530
+| | 
+| |     Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit fac892faf46c35fad73ae7b1f2897213afa89f16
+| | Author: jaydev943 <jay.arusys@gmail.com>
+| | Date:   Fri Nov 2 17:38:45 2018 +0530
+| | 
+| |     Fixed url issue without signup and add popup on delete page
+| | 
+| * commit d00bad8668d0421573dc897c9a7d73f3728f45e6
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Fri Nov 2 15:59:24 2018 +0530
+| | 
+| |     On post job Post me as contact job poster display user details to contact
+| | 
+| * commit fb4750df8b8de8e2a2bc55804e126adc50c00348
+| | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | Date:   Fri Nov 2 13:36:04 2018 +0530
+| | 
+| |     Job Instance apply and bookmark not display to company and own posted job for user
+| | 
+| * commit 066e215a50d0c2ee793a0538a456acadea3aeba2
+|/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+|   Date:   Fri Nov 2 12:57:13 2018 +0530
+|   
+|       Display proper information for my application and set pagination
+| 
+* commit 148235789576a4a4ae0becc977f42de6d4f89e67
+  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+  Date:   Fri Nov 2 11:48:06 2018 +0530
+  
+      Add notification for apply job
