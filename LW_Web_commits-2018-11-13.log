@@ -1,0 +1,140 @@
+*   commit 53bbfef8b97218300638da23bc00bb014c050133
+|\  Merge: 66bf11c9 64592cdc
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Nov 13 22:17:22 2018 +0530
+| | 
+| |     Merge conflict resolve
+| | 
+* | commit 66bf11c9b1b2bc443b54805a4146c04155b6c0d9
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Tue Nov 13 22:12:58 2018 +0530
+| | 
+| |     Indian's public blockchin demo code working
+| |   
+| *   commit 64592cdc2f71ff1ea7308f62b7fe35a4670fc8d8
+| |\  Merge: 5018d6e4 65cad85b
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Tue Nov 13 18:44:12 2018 +0530
+| | | 
+| | |     Resolve confict
+| | | 
+| * | commit 5018d6e41fa4946b6590172d55338d7c4efd8788
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Tue Nov 13 18:41:07 2018 +0530
+| | | 
+| | |     Export to excel scan data list
+| | |   
+* | |   commit 7ca7162bde6d417608ab843982561a9c52a96cb7
+|\ \ \  Merge: 6eed305a 65cad85b
+| | |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |/|   Date:   Tue Nov 13 18:13:59 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit 65cad85b762e8d610fab085da57505f36431aeb5
+| |\ \  Merge: 428880f0 3e04310c
+| | |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Tue Nov 13 18:12:53 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 428880f0dae1e09425aaae6a6f5887135745c04b
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Nov 13 18:11:28 2018 +0530
+| | | 
+| | |     link changes scan id card
+| | |   
+| | *   commit 3e04310c72098defe31d15af494cefb7f0e4b0fe
+| | |\  Merge: 8cf29b1a 33bb08bc
+| | |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |/|   Date:   Tue Nov 13 18:06:18 2018 +0530
+| | |   
+| | |       Scan ID Card List > Export to pdf merge resolve
+| | | 
+| | * commit 8cf29b1a58b48c999c1a9dc10fba58beec3eb912
+| | | Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| | | Date:   Tue Nov 13 18:04:59 2018 +0530
+| | | 
+| | |     Scan ID Card List > Export to pdf
+| | |   
+* | |   commit 6eed305a81b4b6fff25a41d37338cc5e96beb3ca
+|\ \ \  Merge: 46b18e7a 33bb08bc
+| |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |   Date:   Tue Nov 13 17:35:27 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 33bb08bc41436b9e9548e75febd591fe5c1da8ce
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Nov 13 17:31:37 2018 +0530
+| | | 
+| | |     link changes scan id card
+| | |   
+* | |   commit 46b18e7a94a67cc512a8bd8556bebdc4fa42a12d
+|\ \ \  Merge: f0f71119 c448cbaf
+| |/ /  Author: Anil Arusys <anil.boricha@arusys.com>
+| | |   Date:   Tue Nov 13 16:38:50 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | |   
+| * |   commit c448cbaf2c7015fcff2a0c017033d1e5a3a2c147
+| |\ \  Merge: 88d2812b 81f7dd23
+| | |/  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | |   Date:   Tue Nov 13 16:30:46 2018 +0530
+| | |   
+| | |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | | 
+| * | commit 88d2812b09af2cd18e3a59ea4fb87df2adcccc2d
+| | | Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| | | Date:   Tue Nov 13 16:30:20 2018 +0530
+| | | 
+| | |     city and location parameter add in save_scane_only_id_card_detail API
+| | | 
+| | * commit 81f7dd233904d783494b83e95d6f7b4ce8379f07
+| |/  Author: Bhavesh Amin <bhavesh.arusys@gmail.com>
+| |   Date:   Tue Nov 13 14:19:17 2018 +0530
+| |   
+| |       Merge Blog Categories and check category name exist or not
+| |   
+* |   commit f0f7111962848102e95a8aa8c856254d5a4a2283
+|\ \  Merge: 991f4fd8 0eb1ec76
+| |/  Author: Anil Arusys <anil.boricha@arusys.com>
+| |   Date:   Mon Nov 12 21:58:49 2018 +0530
+| |   
+| |       Merge branch 'formdatamaster' of https://bitbucket.org/lynkedworld/lynked.world-sails into formdatamaster
+| | 
+* | commit 991f4fd884052743f0cbadb06101ab077b5a29b0
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Nov 12 21:57:54 2018 +0530
+| | 
+| |     Verification local blockchain code update
+| | 
+* | commit 82e37d6fb6eab077fac17d8dc76354fd3962ae48
+| | Author: Anil Arusys <anil.boricha@arusys.com>
+| | Date:   Mon Nov 12 21:57:18 2018 +0530
+| | 
+| |     Jobs search query changes
+| | 
+* | commit 46c858450c8a3faac6c8ac97b670fde428a32a9f
+ /  Author: Anil Arusys <anil.boricha@arusys.com>
+|   Date:   Mon Nov 12 21:56:20 2018 +0530
+|   
+|       API msg changes
+| 
+* commit 0eb1ec76fd5c273bf4c68c9217ed602ae981a637
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Mon Nov 12 21:35:42 2018 +0530
+| 
+|     city and location parameter add in save_scane_only_id_card_detail API
+| 
+* commit 8a8909d94c47c550e2a1e42652a9272da1d93550
+| Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+| Date:   Mon Nov 12 21:29:51 2018 +0530
+| 
+|     city and location parameter add in save_scane_only_id_card_detail API
+| 
+* commit 340dc9a7380d834d753e712e15241d24e42dd729
+  Author: yatin dhingani <yatindhingani@yatins-MacBook-Pro.local>
+  Date:   Mon Nov 12 20:56:05 2018 +0530
+  
+      city and location parameter add in save_scane_only_id_card_detail API
